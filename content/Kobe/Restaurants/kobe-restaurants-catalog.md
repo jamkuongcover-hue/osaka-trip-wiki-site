@@ -1,0 +1,21 @@
+# Kobe Restaurants Catalog
+
+## Files
+- [[Royal Mouriya (Royal Mouriya)]]
+- [[みその (Misono Kobe)]]
+- [[一芯 (Isshin Kobe)]]
+- [[串炸田中 神戶店 (Kushikatsu Tanaka Kobe)]]
+- [[但馬屋 (Tajimaya Kobe)]]
+- [[勘兵衛 (Kanbei Kobe)]]
+- [[南京町 (Nankinmachi)]]
+- [[大長今 (Te-changgum Kobe)]]
+- [[愚庵 (Gu-en Kobe)]]
+- [[木曾路 神戶臨海樂園店 (Kisoji Kobe Harborland)]]
+- [[涮涮鍋 小門 (Shabu-shabu Komon)]]
+- [[神戶たん龍 (Kobe Tanryu)]]
+- [[神戶牛 Ishida (Kobe Beef Ishida)]]
+- [[神戶牛丼 廣重 (Kobe Gyudon Hiroshige)]]
+- [[神戶牛排 Mouriya (Kobe Steak Mouriya)]]
+- [[神戶酒心館 (Kobe Shushinkan)]]
+- [[鐵板燒 但馬 (Teppanyaki Tajima)]]
+- [[青山牛排 (Steak Aoyama)]]
