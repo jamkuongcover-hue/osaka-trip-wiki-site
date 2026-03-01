@@ -1,38 +1,47 @@
-# Kyoto Attractions Catalog
+# 京都景點目錄 (Kyoto Attractions Catalog)
 
-## Files
-- [[teamLab 無限境界 (teamLab Biovortex Kyoto)]]
-- [[三千院 (Sanzen-in)]]
-- [[上賀茂神社 (Kamigamo Jinja)]]
-- [[下鴨神社 (Shimogamo Jinja)]]
-- [[二條城 (Nijo Castle)]]
-- [[京都國立博物館 (Kyoto National Museum)]]
-- [[京都塔 (Kyoto Tower)]]
-- [[京都水族館 (Kyoto Aquarium)]]
-- [[仁和寺 (Ninnaji)]]
-- [[任天堂博物館 (Nintendo Museum)]]
-- [[伊根舟屋 (Ine Funaya)]]
-- [[伏見稻荷大社 (Fushimi Inari Taisha)]]
-- [[兩足院 (Ryosokuin)]]
-- [[八坂神社 (Yasaka Jinja)]]
-- [[円山公園 (Maruyama Park)]]
-- [[北野天滿宮 (Kitano Tenmangu)]]
-- [[南禪寺 (Nanzenji)]]
-- [[哲學之道 (Philosopher's Path)]]
-- [[天橋立 (Amanohashidate)]]
-- [[岡崎神社 (Okazaki Jinja)]]
-- [[嵯峨野觀光鐵道 (Sagano Scenic Railway)]]
-- [[平安神宮 (Heian Jingu)]]
-- [[平等院 (Byodoin)]]
+京都係日本嘅千年古都，擁有無數嘅神社、佛寺同傳統庭園。喺呢度，時間彷彿慢咗落嚟。Charlotte 為你精選咗以下京都必去景點，無論係熱門嘅名勝定係隱世嘅秘境，都能夠令你感受到京都深厚嘅文化底蘊。🍵🏯🍂
+
+## ⛩️ 神社 & 歷史名勝 (Shrines & Historical Sites)
+- [[伏見稻荷大社 (Fushimi Inari Taisha)]] — 千本鳥居嘅震撼，係京都必排隊打卡點。🦊⛩️
+- [[清水寺 (Kiyomizudera)]] — 著名的清水舞台，俯瞰京都市景，櫻花同紅葉季更係絕美。🌸🍂
+- [[金閣寺 (Kinkakuji)]] — 閃耀嘅金色舍利殿，係京都最具代表性嘅標誌。🌟
+- [[銀閣寺 (Ginkakuji)]] — 簡樸與枯山水之美，展現日本傳統美學。
+- [[平安神宮 (Heian Jingu)]] — 壯麗嘅紅色神宮與雅致嘅神苑。
+- [[上賀茂神社 (Kamigamo Jinja)]] — 京都最古老嘅神社之一，文化底蘊深厚。
+- [[下鴨神社 (Shimogamo Jinja)]] — 位於糺之森內，環境清幽且神聖。
+- [[八坂神社 (Yasaka Jinja)]] — 位於祇園，係京都最熱鬧嘅神社之一。
+- [[北野天滿宮 (Kitano Tenmangu)]] — 以梅花同求學問聞名。
 - [[御金神社 (Mikane Jinja)]] — 關西最強求財聖地！金色鳥居必看，限定福包守必買。⛩️💰 ⭐夫人指定⭐
-- [[建仁寺 (Kenninji)]]
-- [[東寺 (Toji)]]
-- [[東福寺 (Tofukuji)]]
-- [[清水寺 (Kiyomizudera)]]
-- [[琉璃光院 (Rurikoin)]]
-- [[貴船神社 (Kifune Jinja)]]
-- [[醍醐寺 (Daigoji)]]
-- [[金閣寺 (Kinkakuji)]]
-- [[銀閣寺 (Ginkakuji)]]
-- [[高台寺 (Kodaiji)]]
-- [[龍安寺 (Ryoanji)]]
+- [[岡崎神社 (Okazaki Jinja)]] — 又稱「兔子神社」，祈求姻緣同求子好靈驗。🐰
+- [[貴船神社 (Kifune Jinja)]] — 夏天有水占卜，冬雪景更係夢幻無比。❄️
+- [[二條城 (Nijo Castle)]] — 德川幕府嘅權力象徵，參觀華麗嘅二之丸御殿。🏯
+- [[東寺 (Toji)]] — 擁有日本最高嘅五重塔，係京都嘅地標。
+- [[平等院 (Byodoin)]] — 鳳凰堂嘅建築美學，係 10 日圓硬幣上嘅圖案。🪷
+
+## 🌳 自然 & 庭園 & 禪意 (Nature & Gardens & Zen)
+- [[哲學之道 (Philosopher's Path)]] — 沿著小溪散步，感受寧靜，春天係櫻花長廊。🌸🛶
+- [[嵐山 (Arashiyama)]] — 竹林小徑、渡月橋，係體驗京都自然美嘅首選。🎋
+- [[嵯峨野觀光鐵道 (Sagano Scenic Railway)]] — 坐復古小火車，沿途欣賞保津川溪谷風景。🚂🏔️
+- [[南禪寺 (Nanzenji)]] — 氣勢磅礡嘅三門同歐式風格嘅水路閣。🧱
+- [[琉璃光院 (Rurikoin)]] — 以倒映在桌面嘅紅葉美景聞名。🍂✨
+- [[龍安寺 (Ryoanji)]] — 世界闻名嘅石庭，感受枯山水嘅禪意。🪨
+- [[建仁寺 (Kenninji)]] — 祇園旁嘅禪宗古寺，雙龍圖天花板極之震撼。🐲
+- [[東福寺 (Tofukuji)]] — 京都通往洗玉澗嘅紅葉美景，係關西第一賞楓名所。🍁
+- [[醍醐寺 (Daigoji)]] — 豐臣秀吉賞櫻聖地，五重塔係日本國寶。🌸
+- [[兩足院 (Ryosokuin)]] — 隱身喺建仁寺內，半夏生季節（初夏）最美。🌿
+- [[高台寺 (Kodaiji)]] — 豐臣秀吉夫人寧寧所建，夜間點燈非常迷人。🌙✨
+- [[三千院 (Sanzen-in)]] — 位於大原嘅古寺，綠苔與童地藏令人療癒。💚
+- [[仁和寺 (Ninnaji)]] — 以遲開嘅「御室櫻」而聞名。🌸
+
+## 🏛️ 現代 & 文化 & 博物館 (Modern & Culture & Museums)
+- [[任天堂博物館 (Nintendo Museum)]] — 遊戲迷必去聖地，深入了解任天堂嘅進化史。🎮✨
+- [[teamLab 無限境界 (teamLab Biovortex Kyoto)]] — 現代科技與藝術結合嘅沉浸式體驗。🎨💡
+- [[京都塔 (Kyoto Tower)]] — 俯瞰京都全景，現代與傳統嘅結合。🗼
+- [[京都水族館 (Kyoto Aquarium)]] — 位於梅小路公園內，係親子活動嘅好去處。🐠🐧
+- [[京都國立博物館 (Kyoto National Museum)]] — 收藏無數珍貴文物，建築物本身亦好有藝術價值。🏛️
+- [[伊根舟屋 (Ine Funaya)]] — 京都北郊嘅隱世漁村，體驗傳統嘅水上屋建築。🛶🏠
+- [[天橋立 (Amanohashidate)]] — 日本三景之一，「昇龍觀」景致絕對要親身去睇下。🐲🌊
+
+---
+[[kyoto-main-catalog|返回目錄]]
