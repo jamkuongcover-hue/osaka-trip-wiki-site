@@ -19,7 +19,6 @@
 - Refined and categorized all major catalog files:
 ... (existing content)
 
-## 2026-03-02 09:15
-- Added `memory/osaka-trip/Osaka/Shopping/Super 玉出超市 (Super Tamade).md` based on user recommendation.
-- Updated `memory/osaka-trip/Osaka/Shopping/osaka-shopping-catalog.md` to include Super Tamade.
-- Documented its 24h operation and famous low-priced strawberries.
+## 2026-03-02 09:50
+- Added `memory/osaka-trip/Osaka/Shopping/日本夾公仔技巧 (UFO Catcher Skills).md` with the Instagram reference for long-box strategy.
+- Updated `osaka-shopping-catalog.md` to include the new skill guide.
