@@ -13,6 +13,7 @@
 - [[LAMU 超市 (LAMU Konohana)]] — 平到嘔電嘅 24 小時寶藏超市。💰 ⭐夫人指定⭐
 - [[LIFE 超市 (Life Supermarket)]] — 品質優良，款式多樣嘅大型連鎖超市。🍇🥛
 - [[成城石井 (Seijo Ishii)]] — 高級進口超市，可以買到好多精緻嘅零食同酒。🥂🍫
+- [[Super 玉出超市 (Super Tamade)]] — 24 小時營業、招牌超級閃亮嘅「激安」超市，草莓同熟食非常便宜。🌻🍓✨
 
 ## 🛍️ 百貨公司 & 購物中心 (Department Stores & Malls)
 - [[阪急百貨 梅田本店 (Hankyu Umeda)]] — 大阪最高級、品牌最齊全嘅百貨公司。👗💄
