@@ -1,247 +1,247 @@
 
 File Checklist
 
-| Place | Type | File | Status | Exist | Image | Image Quality | Linkage Check | Google Map | Last Update Date |
-| ----- | ---- | ---- | ------ | ----- | ----- | ------------- | ------------- | ---------- | ---------------- |
-| Osaka | Attractions | LOPIA (ロピア) 超市.md | In Progress | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | NIFREL 水族館 (NIFREL).md | In Progress | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | Spa World Hotel & Resort (スパワールド 世界の大温泉).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 中之島美術館 (Nakanoshima Museum of Art).md | In Progress | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 勝尾寺 (Katsuo-ji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 四天王寺 (Shitennoji Temple).md | In Progress | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 國立國際美術館 (National Museum of Art, Osaka).md | In Progress | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 堺市研究 (Sakai Study).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Attractions | 大阪兒童樂園 (Kids Plaza Osaka).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 大阪城公園 (Osaka Castle Park).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 大阪城無障礙指南 (Osaka Castle Accessible Guide).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Attractions | 大阪市立科學館 (Osaka Science Museum).md | In Progress | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 大阪市立美術館 (Osaka City Museum of Fine Arts).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Attractions | 大阪市立美術館-新館 (Osaka City Museum of Fine Arts - New).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Attractions | 大阪歷史博物館 (Osaka Museum of History).md | In Progress | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 大阪生活今昔館 (Osaka Museum of Housing and Living).md | In Progress | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 大鳥大社 (Otori Taisha).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Attractions | 天保山大摩天輪 (Tempozan Ferris Wheel).md | In Progress | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 天王寺公園 (Tennoji Park).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Attractions | 天王寺動物園 (Tennoji Zoo).md | In Progress | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 心齋橋 (Shinsaibashi).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 日本環球影城 (Universal Studios Japan).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Attractions | 梅田藍天大廈 (Umeda Sky Building).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 箕面大瀑布 (Minoh Falls).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 美國村 (Amerikamura).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 萬博紀念公園 (Expo '70 Commemorative Park).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 通天閣 (Tsutenkaku).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 道頓堀 (Dotonbori).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 道頓堀サウナ (Dotonbori Sauna).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Attractions | 阿倍野 Q's Mall (Abeno Q's Mall).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 阿倍野展望台 (Abeno Harukas).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 難波公園 (Namba Parks).md | In Progress | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | 2026-03-02 |
-| Osaka | Attractions | 黑門市場 (Kuromon Market).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 8TH SEA OYSTER (エイス シー オイスター).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | がんこ 壽司 (Ganko Sushi Yashiki).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | すき焼き 藤もと (Sukiyaki Fujimoto).md | In Progress | ✅ | ❌ | ❌ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | はなだこ (Hanadako).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | カジュアル和食 メゾンプラス (Maison Plus).md | In Progress | ✅ | ❌ | ❌ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 中津 WONIKU (NAKATSU WONIKU).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 中華そば 桐麺 (Chuka Soba Kirimen - Umeda).md | In Progress | ✅ | ❌ | ❌ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 串炸田中 高槻店 (Kushikatsu Tanaka Takatsuki).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 串炸達摩 (Kushikatsu Daruma).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 伊勢海老 たくと (Iseebi Takuto).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 北新地 鮨 なかがわ (Sushi Nakagawa).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 千房大阪燒 (Chibo Okonomiyaki).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 和食 雅膳 梅田 (Shabuzen Umeda).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 壽司赤酢 (Sushi Akazu).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 壽喜燒 北村 (Sukiyaki Kitamura).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 家和らぎ (Iwayuragi).md | In Progress | ✅ | ❌ | ❌ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 本格手打 たけうちうどん店 (Takeuchi Udonten).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 松阪牛燒肉 M (Matsuzakagyu Yakiniku M).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 炙屋 (Aburiya).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 焼肉ホルモン 万千 (Yakiniku Horumon Mansen).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 燒肉 TORAJI (Yakiniku Toraji - Hilton).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 燒肉 います (Yakiniku Imai).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 燒肉 きたん 法善寺 (Yakiniku Kitan Hozenji).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 神戶牛 和之宮 (Kobe Beef Wanomiya).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 福太郎 (Fukutaro).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 総大醤 (Soudaisho).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 肉匠 なか田 (Nikusyo Nakata).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 薩摩 牛之藏 (Satsuma Ushinokura).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 蟹家 (Kaniya Osaka).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 蟹道樂 (Kani Doraku).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 蟹道樂 網元本館 (Kani Doraku Amimoto).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 金久右衛門 (Kingemon Ramen).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 鐵板燒 みなみ (Teppanyaki Minami).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 鐵板燒 逢坂 (Teppanyaki Ousaka).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 鮨 みのき (Sushi Minoki).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 鮨 よつば (Sushi Yotsuba).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 鮨處 黑杉 (Sushi-dokoro Kurosugi).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Restaurants | 麺に光を 別邸 (Ramen Menhika Branch).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Hotels | 大阪十字酒店 (Cross Hotel Osaka).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Hotels | 大阪南海瑞士酒店 (Swissotel Nankai Osaka).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Hotels | 大阪本町柯蒂亞酒店 (Hotel Cordia Osaka Hommachi).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Hotels | 大阪洲際酒店 (InterContinental Hotel Osaka).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Hotels | 大阪雷斯派爾阪急酒店 (Hotel Hankyu Respire Osaka).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Osaka | Hotels | 環球影城園前酒店 (The Park Front Hotel at USJ).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | teamLab 無限境界 (teamLab Biovortex Kyoto).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 三千院 (Sanzen-in).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 上賀茂神社 (Kamigamo Jinja).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 下鴨神社 (Shimogamo Jinja).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 二條城 (Nijo Castle).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 京都國立博物館 (Kyoto National Museum).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 京都塔 (Kyoto Tower).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 京都水族館 (Kyoto Aquarium).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 仁和寺 (Ninnaji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 任天堂博物館 (Nintendo Museum).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 伊根舟屋 (Ine Funaya).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 伏見稻荷大社 (Fushimi Inari Taisha).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 兩足院 (Ryosokuin).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 八坂神社 (Yasaka Jinja).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 円山公園 (Maruyama Park).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 北野天滿宮 (Kitano Tenmangu).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 南禪寺 (Nanzenji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 哲學之道 (Philosopher's Path).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 天橋立 (Amanohashidate).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 岡崎神社 (Okazaki Jinja).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 嵐湯 (Arashiyu).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 嵯峨野觀光鐵道 (Sagano Scenic Railway).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 平安神宮 (Heian Jingu).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 平等院 (Byodoin).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 建仁寺 (Kenninji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 御金神社 (Mikane Jinja).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 東寺 (Toji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 東福寺 (Tofukuji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 清水寺 (Kiyomizudera).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 琉璃光院 (Rurikoin).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 貴船神社 (Kifune Jinja).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 醍醐寺 (Daigoji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 金閣寺 (Kinkakuji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 銀閣寺 (Ginkakuji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 高台寺 (Kodaiji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Attractions | 龍安寺 (Ryoanji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | GRIDDLE FORCE 逸楽 (Griddle Force Itsuraku).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | Koe Donuts (Koe Donuts).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 三嶋亭 本店 (Mishima Tei Honten).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 中村藤吉 本店 (Nakamura Tokichi).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 丸久小山園 元庵 (Marukyu Koyamaen Motoan).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 京都 甲羅本店 (Kyoto Kora Honten).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 京都勝牛 (Kyoto Katsugyu).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 南禪寺 順正 (Nanzenji Junsei).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 土井活鰻 (Doi Katsuman).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 天婦羅 京星 (Tempura Kyoboshi).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 天婦羅八坂圓堂 (Tempura Yasaka Endo).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 嵐山 湯豆腐 嵯峨野 (Arashiyama Yudofu Sagano).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 廣川 鰻魚飯 (Unagiya Hirokawa).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 拉麵 千之風 (Ramen Sen no Kaze).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 松籟庵 (Shoraian Tofu).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 牛鍋力山 (Gyunabe Chikara Yama).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 祇園宇野由紀子 (Gion Unoyukiko).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 祇園牛禪 (Gion Gyuzen).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 祗園松田屋壽司 (Gion Matsudaya).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 蟹道樂 京都本店 (Kani Doraku Kyoto).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 錦市場 (Nishiki Market).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 鯛匠 HANANA (Tai-sho Hanana).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Restaurants | 麵屋 豬一 (Menya Inoichi).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Hotels | 京都索拉利亞西鐵酒店 (Solaria Nishitetsu Hotel Kyoto Premier).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Hotels | 京都艾米恩酒店 (Hotel Emion Kyoto).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kyoto | Hotels | 住宿選擇研究 (Hotel Selection Study).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 六甲山 (Mount Rokko).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 北野異人館 (Kitano Ijinkan).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 北野異人館街 (Kitano Ijinkan-gai).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 大倉酒店展望台 (Hotel Okura Observatory).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 好古園 (Koko-en Garden).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 姬路城 (Himeji Castle).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 布引香草園與纜車 (Nunobiki Herb Gardens & Cableway).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 有馬溫泉 (Arima Onsen).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 相樂園 (Sorakuen Garden).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 神戶動物王國 (Kobe Animal Kingdom).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 神戶地震博物館 (Kobe Earthquake Museum).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 神戶市立博物館 (Kobe City Museum).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 神戶市立森林植物園 (Kobe Arboretum).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 神戶市立王子動物園 (Kobe Oji Zoo).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 神戶森林植物園 (Kobe Forest Botanical Garden).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 神戶海洋博物館 (Kobe Maritime Museum).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 神戶港塔 (Kobe Port Tower).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 神戶須磨海濱水族園 (Kobe Suma Sea World).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 神戶麵包超人博物館 (Kobe Anpanman Museum).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 美利堅公園 (Meriken Park).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 舞子海上散步道 (Maiko Marine Promenade).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 阪神甲子園球場 (Hanshin Koshien Stadium).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Attractions | 須磨浦山上遊園 (Sumaura Sanjo Amusement Park).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | Royal Mouriya (Royal Mouriya).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | みその (Misono Kobe).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 一芯 (Isshin Kobe).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 串炸田中 神戶店 (Kushikatsu Tanaka Kobe).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 但馬屋 (Tajimaya Kobe).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 勘兵衛 (Kanbei Kobe).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 南京町 (Nankinmachi).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 大長今 (Te-changgum Kobe).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 愚庵 (Gu-en Kobe).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 木曾路 神戶臨海樂園店 (Kisoji Kobe Harborland).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 涮涮鍋 小門 (Shabu-shabu Komon).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 神戶たん龍 (Kobe Tanryu).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 神戶牛 Ishida (Kobe Beef Ishida).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 神戶牛丼 廣重 (Kobe Gyudon Hiroshige).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 神戶牛排 Mouriya (Kobe Steak Mouriya).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 神戶酒心館 (Kobe Shushinkan).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 鐵板燒 但馬 (Teppanyaki Tajima).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Kobe | Restaurants | 青山牛排 (Steak Aoyama).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 中谷堂 (Nakatanidou).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 今井町 (Imaicho).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 依水園 (Isui-en Garden).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 信貴山 (Mount Shigisan).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 吉城園 (Yoshikien Garden).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 唐招提寺 (Toshodai-ji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 大神神社 (Omiwa Shrine).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 奈良公園 (Nara Park).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 奈良公園無障礙指南 (Nara Park Accessible Guide).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 奈良國立博物館 (Nara National Museum).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 奈良工藝館 (Nara Craft Museum).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 奈良町 (Naramachi).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 奈良町博物館 (Naramachi Museum).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 奈良金魚博物館 (Nara Kingyo Museum).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 室生寺 (Muro-ji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 平城宮跡 (Heijo Palace).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 春日大社 (Kasuga Taisha).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 東大寺 (Todai-ji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 東大寺 二月堂 (Todai-ji Nigatsu-do).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 法隆寺 (Horyu-ji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 洞川溫泉 (Dorogawa Onsen).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 浮見堂 (Ukimido).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 猿澤池 (Sarusawa-ike Pond).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 生駒山上遊樂園 (Ikoma Sanjo Amusement Park).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 興福寺 (Kofuku-ji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 般若寺 (Hannyaji Temple).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 若草山 (Mount Wakakusa).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 萬葉文化館 (Manyo Bunkakan).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 萬葉植物園 (Manyo Botanical Garden).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 藥師寺 (Yakushi-ji).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 談山神社 (Tanzan Shrine).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Attractions | 長谷寺 (Hase-dera).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | Akordu.md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | Gateau des Bois.md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | Lucky Garden.md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | Mellow.md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | Pamba pipi.md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | おちゃけや (Ochakeya).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | ラーメン屋 みつ葉 (Ramen Mitsuba).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 三輪素麵 (Miwa Soumen).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 千壽庵吉宗 (Senjuan Yoshimune).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 和山村 (Wa Yamamura).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 和鹿彩 別邸 (Wakasaya Bettei).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 大佛布丁 (Mahoroba Daibutsu Pudding).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 天極堂 (Tengyokudo).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 幡・INOUE (Ban Inoue).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 平宗 (Hirasou).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 幸之助 (Konosuke).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 彩華拉麵 (Saika Ramen).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 志津香 釜飯 (Shizuka Kamameshi).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 春日野 (Kasugano).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 柿之葉壽司 (Kakinoha Sushi).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 柿之葉壽司田中 (Kakinoha Tanaka).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 樫舍 (Kashiya).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 江戶川 奈良町店 (Edogawa Naramachi).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 玄 (Gen).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 粟 ならまち店 (Awa Naramachi).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 菊水樓 (Kikusuiro).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 萬勝 (Yorozu).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 駿河屋 (Surugaya).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 鹿之舟 (Shika no Fune).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
-| Nara | Restaurants | 麵屋 K (Menya K).md | In Progress | ✅ | ✅ | Pending Review | ✅ | ❌ | ❌ | 2026-03-01 |
+| Place | Type        | File                                                   | Status      | File Exist | Image Exist | Image Quality (Not Broken / Not Web Screencap) | Obsidian Linkage Check | Google Map | Last Update Date |            |
+| ----- | ----------- | ------------------------------------------------------ | ----------- | ---------- | ----------- | ---------------------------------------------- | ---------------------- | ---------- | ---------------- | ---------- |
+| Osaka | Attractions | LOPIA (ロピア) 超市.md                                      | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | NIFREL 水族館 (NIFREL).md                                 | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | Spa World Hotel & Resort (スパワールド 世界の大温泉).md            | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 中之島美術館 (Nakanoshima Museum of Art).md                  | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 勝尾寺 (Katsuo-ji).md                                     | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 四天王寺 (Shitennoji Temple).md                            | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 國立國際美術館 (National Museum of Art, Osaka).md             | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 堺市研究 (Sakai Study).md                                  | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Attractions | 大阪兒童樂園 (Kids Plaza Osaka).md                           | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 大阪城公園 (Osaka Castle Park).md                           | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 大阪城無障礙指南 (Osaka Castle Accessible Guide).md            | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Attractions | 大阪市立科學館 (Osaka Science Museum).md                      | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 大阪市立美術館 (Osaka City Museum of Fine Arts).md            | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 大阪市立美術館-新館 (Osaka City Museum of Fine Arts - New).md   | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Attractions | 大阪歷史博物館 (Osaka Museum of History).md                   | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 大阪生活今昔館 (Osaka Museum of Housing and Living).md        | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 大鳥大社 (Otori Taisha).md                                 | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Attractions | 天保山大摩天輪 (Tempozan Ferris Wheel).md                     | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 天王寺公園 (Tennoji Park).md                                | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Attractions | 天王寺動物園 (Tennoji Zoo).md                                | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 心齋橋 (Shinsaibashi).md                                  | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 日本環球影城 (Universal Studios Japan).md                    | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Attractions | 梅田藍天大廈 (Umeda Sky Building).md                         | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 箕面大瀑布 (Minoh Falls).md                                 | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 美國村 (Amerikamura).md                                   | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 萬博紀念公園 (Expo '70 Commemorative Park).md                | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 通天閣 (Tsutenkaku).md                                    | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 道頓堀 (Dotonbori).md                                     | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 道頓堀サウナ (Dotonbori Sauna).md                            | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Attractions | 阿倍野 Q's Mall (Abeno Q's Mall).md                       | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 阿倍野展望台 (Abeno Harukas).md                              | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 難波公園 (Namba Parks).md                                  | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Attractions | 黑門市場 (Kuromon Market).md                               | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Restaurants | 8TH SEA OYSTER (エイス シー オイスター).md                       | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | がんこ 壽司 (Ganko Sushi Yashiki).md                        | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | すき焼き 藤もと (Sukiyaki Fujimoto).md                        | In Progress | ✅          | ❌           | ❌                                              | ❌                      | ❌          | 2026-03-01       |            |
+| Osaka | Restaurants | はなだこ (Hanadako).md                                     | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | カジュアル和食 メゾンプラス (Maison Plus).md                        | In Progress | ✅          | ❌           | ❌                                              | ❌                      | ❌          | 2026-03-01       |            |
+| Osaka | Restaurants | 中津 WONIKU (NAKATSU WONIKU).md                          | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 中華そば 桐麺 (Chuka Soba Kirimen - Umeda).md                | In Progress | ✅          | ❌           | ❌                                              | ❌                      | ❌          | 2026-03-01       |            |
+| Osaka | Restaurants | 串炸田中 高槻店 (Kushikatsu Tanaka Takatsuki).md              | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 串炸達摩 (Kushikatsu Daruma).md                            | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 伊勢海老 たくと (Iseebi Takuto).md                            | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 北新地 鮨 なかがわ (Sushi Nakagawa).md                         | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 千房大阪燒 (Chibo Okonomiyaki).md                           | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 和食 雅膳 梅田 (Shabuzen Umeda).md                           | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 壽司赤酢 (Sushi Akazu).md                                  | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 壽喜燒 北村 (Sukiyaki Kitamura).md                          | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 家和らぎ (Iwayuragi).md                                    | In Progress | ✅          | ❌           | ❌                                              | ❌                      | ❌          | 2026-03-01       |            |
+| Osaka | Restaurants | 本格手打 たけうちうどん店 (Takeuchi Udonten).md                    | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 松阪牛燒肉 M (Matsuzakagyu Yakiniku M).md                   | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 炙屋 (Aburiya).md                                        | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 焼肉ホルモン 万千 (Yakiniku Horumon Mansen).md                 | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 燒肉 TORAJI (Yakiniku Toraji - Hilton).md                | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 燒肉 います (Yakiniku Imai).md                              | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 燒肉 きたん 法善寺 (Yakiniku Kitan Hozenji).md                 | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 神戶牛 和之宮 (Kobe Beef Wanomiya).md                        | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 福太郎 (Fukutaro).md                                      | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 総大醤 (Soudaisho).md                                     | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 肉匠 なか田 (Nikusyo Nakata).md                             | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 薩摩 牛之藏 (Satsuma Ushinokura).md                         | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 蟹家 (Kaniya Osaka).md                                   | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 蟹道樂 (Kani Doraku).md                                   | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 蟹道樂 網元本館 (Kani Doraku Amimoto).md                      | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 金久右衛門 (Kingemon Ramen).md                              | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 鐵板燒 みなみ (Teppanyaki Minami).md                         | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 鐵板燒 逢坂 (Teppanyaki Ousaka).md                          | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 鮨 みのき (Sushi Minoki).md                                | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 鮨 よつば (Sushi Yotsuba).md                               | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 鮨處 黑杉 (Sushi-dokoro Kurosugi).md                       | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Restaurants | 麺に光を 別邸 (Ramen Menhika Branch).md                      | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Osaka | Hotels      | 大阪十字酒店 (Cross Hotel Osaka).md                          | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Hotels      | 大阪南海瑞士酒店 (Swissotel Nankai Osaka).md                   | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Hotels      | 大阪本町柯蒂亞酒店 (Hotel Cordia Osaka Hommachi).md             | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Hotels      | 大阪洲際酒店 (InterContinental Hotel Osaka).md               | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Hotels      | 大阪雷斯派爾阪急酒店 (Hotel Hankyu Respire Osaka).md             | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Osaka | Hotels      | 環球影城園前酒店 (The Park Front Hotel at USJ).md              | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Kyoto | Attractions | teamLab 無限境界 (teamLab Biovortex Kyoto).md              | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 三千院 (Sanzen-in).md                                     | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Kyoto | Attractions | 上賀茂神社 (Kamigamo Jinja).md                              | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Kyoto | Attractions | 下鴨神社 (Shimogamo Jinja).md                              | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Kyoto | Attractions | 二條城 (Nijo Castle).md                                   | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Kyoto | Attractions | 京都國立博物館 (Kyoto National Museum).md                     | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Kyoto | Attractions | 京都塔 (Kyoto Tower).md                                   | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Kyoto | Attractions | 京都水族館 (Kyoto Aquarium).md                              | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 仁和寺 (Ninnaji).md                                       | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 任天堂博物館 (Nintendo Museum).md                            | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 伊根舟屋 (Ine Funaya).md                                   | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 伏見稻荷大社 (Fushimi Inari Taisha).md                       | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 兩足院 (Ryosokuin).md                                     | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 八坂神社 (Yasaka Jinja).md                                 | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 円山公園 (Maruyama Park).md                                | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 北野天滿宮 (Kitano Tenmangu).md                             | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 南禪寺 (Nanzenji).md                                      | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 哲學之道 (Philosopher's Path).md                           | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 天橋立 (Amanohashidate).md                                | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 岡崎神社 (Okazaki Jinja).md                                | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 嵐湯 (Arashiyu).md                                       | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 嵯峨野觀光鐵道 (Sagano Scenic Railway).md                     | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 平安神宮 (Heian Jingu).md                                  | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 平等院 (Byodoin).md                                       | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 建仁寺 (Kenninji).md                                      | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 御金神社 (Mikane Jinja).md                                 | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 東寺 (Toji).md                                           | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 東福寺 (Tofukuji).md                                      | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 清水寺 (Kiyomizudera).md                                  | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 琉璃光院 (Rurikoin).md                                     | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 貴船神社 (Kifune Jinja).md                                 | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 醍醐寺 (Daigoji).md                                       | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 金閣寺 (Kinkakuji).md                                     | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 銀閣寺 (Ginkakuji).md                                     | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 高台寺 (Kodaiji).md                                       | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Attractions | 龍安寺 (Ryoanji).md                                       | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | GRIDDLE FORCE 逸楽 (Griddle Force Itsuraku).md           | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | Koe Donuts (Koe Donuts).md                             | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 三嶋亭 本店 (Mishima Tei Honten).md                         | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 中村藤吉 本店 (Nakamura Tokichi).md                          | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 丸久小山園 元庵 (Marukyu Koyamaen Motoan).md                  | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 京都 甲羅本店 (Kyoto Kora Honten).md                         | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 京都勝牛 (Kyoto Katsugyu).md                               | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 南禪寺 順正 (Nanzenji Junsei).md                            | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 土井活鰻 (Doi Katsuman).md                                 | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 天婦羅 京星 (Tempura Kyoboshi).md                           | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 天婦羅八坂圓堂 (Tempura Yasaka Endo).md                       | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 嵐山 湯豆腐 嵯峨野 (Arashiyama Yudofu Sagano).md               | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 廣川 鰻魚飯 (Unagiya Hirokawa).md                           | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 拉麵 千之風 (Ramen Sen no Kaze).md                          | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 松籟庵 (Shoraian Tofu).md                                 | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 牛鍋力山 (Gyunabe Chikara Yama).md                         | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 祇園宇野由紀子 (Gion Unoyukiko).md                            | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 祇園牛禪 (Gion Gyuzen).md                                  | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 祗園松田屋壽司 (Gion Matsudaya).md                            | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 蟹道樂 京都本店 (Kani Doraku Kyoto).md                        | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 錦市場 (Nishiki Market).md                                | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 鯛匠 HANANA (Tai-sho Hanana).md                          | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Restaurants | 麵屋 豬一 (Menya Inoichi).md                               | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kyoto | Hotels      | 京都索拉利亞西鐵酒店 (Solaria Nishitetsu Hotel Kyoto Premier).md | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Kyoto | Hotels      | 京都艾米恩酒店 (Hotel Emion Kyoto).md                         | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ✅          | ❌                | 2026-03-02 |
+| Kyoto | Hotels      | 住宿選擇研究 (Hotel Selection Study).md                      | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 六甲山 (Mount Rokko).md                                   | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 北野異人館 (Kitano Ijinkan).md                              | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 北野異人館街 (Kitano Ijinkan-gai).md                         | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 大倉酒店展望台 (Hotel Okura Observatory).md                   | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 好古園 (Koko-en Garden).md                                | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 姬路城 (Himeji Castle).md                                 | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 布引香草園與纜車 (Nunobiki Herb Gardens & Cableway).md         | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 有馬溫泉 (Arima Onsen).md                                  | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 相樂園 (Sorakuen Garden).md                               | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 神戶動物王國 (Kobe Animal Kingdom).md                        | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 神戶地震博物館 (Kobe Earthquake Museum).md                    | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 神戶市立博物館 (Kobe City Museum).md                          | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 神戶市立森林植物園 (Kobe Arboretum).md                          | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 神戶市立王子動物園 (Kobe Oji Zoo).md                            | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 神戶森林植物園 (Kobe Forest Botanical Garden).md              | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 神戶海洋博物館 (Kobe Maritime Museum).md                      | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 神戶港塔 (Kobe Port Tower).md                              | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 神戶須磨海濱水族園 (Kobe Suma Sea World).md                     | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 神戶麵包超人博物館 (Kobe Anpanman Museum).md                    | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 美利堅公園 (Meriken Park).md                                | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 舞子海上散步道 (Maiko Marine Promenade).md                    | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 阪神甲子園球場 (Hanshin Koshien Stadium).md                   | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Attractions | 須磨浦山上遊園 (Sumaura Sanjo Amusement Park).md              | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | Royal Mouriya (Royal Mouriya).md                       | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | みその (Misono Kobe).md                                   | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 一芯 (Isshin Kobe).md                                    | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 串炸田中 神戶店 (Kushikatsu Tanaka Kobe).md                   | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 但馬屋 (Tajimaya Kobe).md                                 | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 勘兵衛 (Kanbei Kobe).md                                   | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 南京町 (Nankinmachi).md                                   | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 大長今 (Te-changgum Kobe).md                              | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 愚庵 (Gu-en Kobe).md                                     | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 木曾路 神戶臨海樂園店 (Kisoji Kobe Harborland).md                | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 涮涮鍋 小門 (Shabu-shabu Komon).md                          | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 神戶たん龍 (Kobe Tanryu).md                                 | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 神戶牛 Ishida (Kobe Beef Ishida).md                       | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 神戶牛丼 廣重 (Kobe Gyudon Hiroshige).md                     | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 神戶牛排 Mouriya (Kobe Steak Mouriya).md                   | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 神戶酒心館 (Kobe Shushinkan).md                             | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 鐵板燒 但馬 (Teppanyaki Tajima).md                          | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Kobe  | Restaurants | 青山牛排 (Steak Aoyama).md                                 | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 中谷堂 (Nakatanidou).md                                   | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 今井町 (Imaicho).md                                       | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 依水園 (Isui-en Garden).md                                | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 信貴山 (Mount Shigisan).md                                | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 吉城園 (Yoshikien Garden).md                              | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 唐招提寺 (Toshodai-ji).md                                  | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 大神神社 (Omiwa Shrine).md                                 | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 奈良公園 (Nara Park).md                                    | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 奈良公園無障礙指南 (Nara Park Accessible Guide).md              | In Progress | ✅          | ❌           | ❌                                              | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 奈良國立博物館 (Nara National Museum).md                      | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 奈良工藝館 (Nara Craft Museum).md                           | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 奈良町 (Naramachi).md                                     | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 奈良町博物館 (Naramachi Museum).md                           | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 奈良金魚博物館 (Nara Kingyo Museum).md                        | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 室生寺 (Muro-ji).md                                       | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 平城宮跡 (Heijo Palace).md                                 | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 春日大社 (Kasuga Taisha).md                                | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 東大寺 (Todai-ji).md                                      | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 東大寺 二月堂 (Todai-ji Nigatsu-do).md                       | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 法隆寺 (Horyu-ji).md                                      | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 洞川溫泉 (Dorogawa Onsen).md                               | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 浮見堂 (Ukimido).md                                       | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 猿澤池 (Sarusawa-ike Pond).md                             | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 生駒山上遊樂園 (Ikoma Sanjo Amusement Park).md                | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 興福寺 (Kofuku-ji).md                                     | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 般若寺 (Hannyaji Temple).md                               | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 若草山 (Mount Wakakusa).md                                | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 萬葉文化館 (Manyo Bunkakan).md                              | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 萬葉植物園 (Manyo Botanical Garden).md                      | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 藥師寺 (Yakushi-ji).md                                    | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 談山神社 (Tanzan Shrine).md                                | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Attractions | 長谷寺 (Hase-dera).md                                     | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | Akordu.md                                              | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | Gateau des Bois.md                                     | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | Lucky Garden.md                                        | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | Mellow.md                                              | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | Pamba pipi.md                                          | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | おちゃけや (Ochakeya).md                                    | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | ラーメン屋 みつ葉 (Ramen Mitsuba).md                           | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 三輪素麵 (Miwa Soumen).md                                  | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 千壽庵吉宗 (Senjuan Yoshimune).md                           | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 和山村 (Wa Yamamura).md                                   | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 和鹿彩 別邸 (Wakasaya Bettei).md                            | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 大佛布丁 (Mahoroba Daibutsu Pudding).md                    | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 天極堂 (Tengyokudo).md                                    | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 幡・INOUE (Ban Inoue).md                                 | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 平宗 (Hirasou).md                                        | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 幸之助 (Konosuke).md                                      | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 彩華拉麵 (Saika Ramen).md                                  | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 志津香 釜飯 (Shizuka Kamameshi).md                          | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 春日野 (Kasugano).md                                      | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 柿之葉壽司 (Kakinoha Sushi).md                              | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 柿之葉壽司田中 (Kakinoha Tanaka).md                           | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 樫舍 (Kashiya).md                                        | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 江戶川 奈良町店 (Edogawa Naramachi).md                        | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 玄 (Gen).md                                             | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 粟 ならまち店 (Awa Naramachi).md                             | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 菊水樓 (Kikusuiro).md                                     | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 萬勝 (Yorozu).md                                         | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 駿河屋 (Surugaya).md                                      | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 鹿之舟 (Shika no Fune).md                                 | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |
+| Nara  | Restaurants | 麵屋 K (Menya K).md                                      | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | ❌          | ❌                | 2026-03-01 |

@@ -32,6 +32,7 @@
 - 每個地點必須包含：地址、營業時間、特色、及 Charlotte 的「毒舌/貼心」貼士。
 - 大阪目標：30+ 景點、20+ 餐廳。
 - **完成定義 (Status: Completed)**：只有當「Exist」、「Image」、「Image Quality (Reviewed)」、「Linkage Check」以及「Google Map」全部顯示為 ✅ 或通過審核時，方可將 Status 標記為 `Completed`。否則必須維持 `In Progress`。
+- **連鎖店標記準則 (Multi-Branch Protocol)**：對於連鎖超市（如 LOPIA、玉出）或連鎖餐廳（如 蟹道樂、串炸達摩），必須在 Google Map 清單中標記出關西地區（大阪、京都、神戶、奈良）內所有主要分店，而非僅標記一家。若清單中已有分店，需檢查是否有遺漏。
 
 ## 5. 權限與協作協定 (Governance Protocol)
 **本目錄 (`memory/osaka-trip/`) 採用 Single-Writer 協定：**
