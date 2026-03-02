@@ -31,6 +31,7 @@
 - 優先參考香港人常用旅遊資訊（Flyday, U Travel, Klook 等）。
 - 每個地點必須包含：地址、營業時間、特色、及 Charlotte 的「毒舌/貼心」貼士。
 - 大阪目標：30+ 景點、20+ 餐廳。
+- **完成定義 (Status: Completed)**：只有當「Exist」、「Image」、「Image Quality (Reviewed)」、「Linkage Check」以及「Google Map」全部顯示為 ✅ 或通過審核時，方可將 Status 標記為 `Completed`。否則必須維持 `In Progress`。
 
 ## 5. 權限與協作協定 (Governance Protocol)
 **本目錄 (`memory/osaka-trip/`) 採用 Single-Writer 協定：**
