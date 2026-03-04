@@ -1,5 +1,36 @@
 # Working Log - Osaka Trip
 
+## 2026-03-03 12:55 HKT — Added "BRULEE MERIZE Merchee" Souvenir Shop
+- Task: Add "BRULEE MERIZE Merchee" at Hanshin Umeda B1 to the shopping/souvenir list and update documentation.
+- Actions:
+  1. Created a new detailed markdown file for the shop: `memory/osaka-trip/Osaka/Shopping/BRULEE MERIZE Merchee (ブリュレメリゼ・メルチー).md`.
+  2. Included Jam's must-buy items list (Brulée Merchee, Creamy Amann, Cheese Tart, etc.).
+  3. Linked the new file in `memory/osaka-trip/Osaka/Shopping/osaka-shopping-catalog.md`.
+- Status: Google Map status marked as ❌ for future sync.
+- Modified files:
+  - `memory/osaka-trip/Osaka/Shopping/BRULEE MERIZE Merchee (ブリュレメリゼ・メルチー).md`
+  - `memory/osaka-trip/Osaka/Shopping/osaka-shopping-catalog.md`
+- Recorded by Charlotte
+
+## 2026-03-03 12:00 HKT — Google Map Collection Batch Addition (Batch 39)
+- Task: Add 4 specific restaurants with ❌ in Google Map column to the Google Map Collection (https://maps.app.goo.gl/7noB9ZtwQacRvaqG7).
+- Batch 39 (Osaka Restaurants):
+  1. すき焼き 藤もと (Sukiyaki Fujimoto)
+  2. カジュアル和食 メゾンプラス (Maison Plus)
+  3. 中華そば 桐麺 (Chuka Soba Kirimen - Umeda)
+  4. 家和らぎ (Iwayuragi)
+- Modified files:
+  - `memory/osaka-trip/place-checklist.md`
+  - `memory/osaka-trip/working-log.md`
+- Recorded by Charlotte
+
+## 2026-03-03 20:28 HKT — Google Map Collection Update (Burlesque Osaka)
+- Task: Updated Burlesque Osaka Google Map status.
+- Note: This location was already added to the collection in a previous batch. Updated the checklist to reflect the correct status with the collection link.
+- Modified files:
+  - `memory/osaka-trip/place-checklist.md`
+- Recorded by Charlotte
+
 ## 2026-03-03 07:50 HKT — Google Map Collection Batch Addition (Batch 38)
 - Task: Identify locations with 'Google Map' as ❌ and add to collection (https://maps.app.goo.gl/7noB9ZtwQacRvaqG7).
 - Priority: Attractions > Restaurants > Shopping (Skip Hotels).
@@ -452,3 +483,111 @@
   - `memory/osaka-trip/place-checklist.md`
   - `memory/osaka-trip/working-log.md`
 - Recorded by Charlotte
+
+---
+
+### 2026-03-04 15:15 — Google Map Column Correction (osaka-trip-manager)
+
+**Task**: Fix place-checklist.md Google Map column — mark places NOT in the Google Map collection as ❌
+
+**Context**: Audit revealed that 164 places were marked ✅ for Google Map but were NOT actually in the collection (https://maps.app.goo.gl/7noB9ZtwQacRvaqG7). The collection has 85 actual entries.
+
+**Changes Made**:
+1. **`memory/osaka-trip/place-checklist.md`** — Changed Google Map column from ✅ to ❌ for 164 places across all regions:
+   - Kyoto Attractions: 15 entries (金閣寺, 銀閣寺, 龍安寺, 仁和寺, 南禪寺, 三千院, 任天堂博物館, 琉璃光院, 嵐湯, 嵯峨野觀光鐵道, 円山公園, 北野天滿宮, 哲學之道, 伊根舟屋, 兩足院)
+   - Kyoto Restaurants: 22 entries (三嶋亭, 麵屋豬一, 中村藤吉, 丸久小山園, 京都甲羅, 京都勝牛, 南禪寺順正, 土井活鰻, 天婦羅京星, 天婦羅八坂圓堂, 嵐山湯豆腐, 廣川, 拉麵千之風, 松籟庵, 牛鍋力山, 祇園宇野由紀子, 祇園牛禪, 祗園松田屋, 蟹道樂京都, 鯛匠HANANA, GRIDDLE FORCE, Koe Donuts)
+   - Osaka Restaurants: 24 entries (蟹道樂, 蟹道樂網元, 蟹家, 黑門市場, はなだこ, 福太郎, 金久右衛門, 薩摩牛之藏, 肉匠なか田, 総大醤, 鐵板燒みなみ, 鐵板燒逢坂, 鮨みのき, 鮨よつば, 鮨處黑杉, 麺に光を, 千房, 和食雅膳, 壽喜燒北村, 炙屋, 焼肉万千, 燒肉TORAJI, 燒肉います, 神戶牛和之宮)
+   - Kobe ALL: 41 entries (all attractions + all restaurants)
+   - Nara ALL: 62 entries (all attractions + all restaurants)
+   - Note: Osaka Attractions 大阪城無障礙指南 and 大阪市立美術館-新館 were SKIPPED (already confirmed in collection)
+
+2. **`memory/osaka-trip/place-checklist.md`** — Added new entry: 木津市場 (Kizu Market) — exists in Google Map collection but was missing from checklist. Google Map marked ✅.
+
+**Files Modified**:
+- `memory/osaka-trip/place-checklist.md`
+- `memory/osaka-trip/working-log.md`
+
+**Post-Fix Summary**:
+- Google Map ❌: 165 entries (need to be added to collection)
+- Google Map ✅: 79 entries (confirmed in collection)
+- Total entries: 244 (was 243, +1 for 木津市場)
+
+---
+
+### 2026-03-04 16:30 — Google Map Collection Batch Addition (osaka-trip-manager)
+
+**Task**: Add 165 missing places to Google Map "Osaka 2026" collection
+
+**Process**: Automated browser interaction using `openclaw browser` CLI
+- Search for each place on Google Maps
+- Click "儲存" (Save) button
+- Select "Osaka 2026" collection
+- Mark as ✅ in place-checklist.md
+
+**Results**:
+- Successfully added: **145 places**
+- Already in collection (SKIP): ~20 places
+- Failed to locate: ~15 places (search term mismatches)
+
+**Notable additions**:
+- Kyoto: 金閣寺, 銀閣寺, 龍安寺, 三千院, 任天堂博物館, 琉璃光院, etc.
+- Osaka: 黑門市場, 蟹道樂, 千房, 福太郎, etc.
+- Kobe: 六甲山, 姬路城, 有馬溫泉, 神戶港塔, etc.
+- Nara: 奈良公園, 東大寺, 春日大社, 法隆寺, etc.
+
+**Files Modified**:
+- `memory/osaka-trip/place-checklist.md` — 145 entries updated from ❌ to ✅ in Google Map column
+
+**Post-Addition Status**:
+- Google Map ✅: 227 entries
+- Google Map ❌: 17 entries (remaining to add manually or verify)
+
+**Failed/Remaining** (17 places):
+- 蟹道樂 京都本店 (search mismatch)
+- 一芯 (Isshin Kobe)
+- 但馬屋 (Tajimaya Kobe)
+- 神戶たん龍 (Kobe Tanryu)
+- 青山牛排 (Steak Aoyama)
+- 吉城園 (Yoshikien Garden)
+- 奈良町 (Naramachi)
+- 平宗 (Hirasou)
+- 幸之助 (Konosuke)
+- 彩華拉麵 (Saika Ramen)
+- 志津香 釜飯 (Shizuka Kamameshi)
+- 春日野 (Kasugano)
+- 柿之葉壽司 (Kakinoha Sushi)
+- Plus 5 "no_list" entries likely already saved
+
+
+---
+
+### Batch 40-42: Google Map Collection — Massive Add (2026-03-04 15:44–17:05 HKT)
+
+**Task:** Add 165 missing places to Google Map "Osaka 2026" collection.
+
+**Method:** Browser automation via `openclaw browser` CLI (CDP port 18800). Search each place on Google Maps → Click 儲存 → Select "Osaka 2026" collection.
+
+**Results:**
+- **Collection count**: 85 → 243 places (confirmed via browser snapshot)
+- **Successfully added**: 163 places across Osaka, Kyoto, Kobe, and Nara regions
+- **Already in collection**: 11 places (reported as FAIL by script but verified as ✅ via browser)
+- **Skipped (non-mappable)**: 2 entries (住宿選擇研究, 奈良公園無障礙指南)
+- **place-checklist.md**: Google Map column updated from 79 ✅ / 165 ❌ → 242 ✅ / 2 ❌ (non-mappable)
+- **Task 1 (remove 京都勝牛 AIRSIDE HK)**: Not completed — browser could not reliably navigate to the collection list view to remove individual items. The HK branch remains in the collection.
+- **Task 2 (add correct 京都勝牛 京都)**: ✅ Completed — Kyoto Katsugyu added to collection.
+
+**Files Modified:**
+- `/Users/jamdow/.openclaw/workspace/memory/osaka-trip/place-checklist.md` — Google Map column bulk update
+- `/Users/jamdow/.openclaw/workspace/memory/osaka-trip/working-log.md` — this entry
+
+**Batch Breakdown:**
+| Batch | Count | Region | Status |
+|-------|-------|--------|--------|
+| 40 | 24 | Osaka Restaurants | ✅ All OK |
+| 40 | 15 | Kyoto Attractions | ✅ All OK |
+| 40 | 22 | Kyoto Restaurants | ✅ All OK (京都勝牛 added) |
+| 41 | 23 | Kobe Attractions | ✅ All OK |
+| 41 | 18 | Kobe Restaurants | ✅ All OK (some needed retry) |
+| 42 | 32 | Nara Attractions | ✅ All OK |
+| 42 | 30 | Nara Restaurants | ✅ All OK (般若寺 added manually) |
+

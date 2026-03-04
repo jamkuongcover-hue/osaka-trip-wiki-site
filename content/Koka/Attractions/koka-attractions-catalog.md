@@ -1,3 +1,0 @@
-# Koka Attractions Catalog
-
-## Files

@@ -18,6 +18,7 @@
 
 ## 🛍️ 百貨公司 & 購物中心 (Department Stores & Malls)
 - [[阪急百貨 梅田本店 (Hankyu Umeda)]] — 大阪最高級、品牌最齊全嘅百貨公司。👗💄
+- [[BRULEE MERIZE Merchee (ブリュレメリゼ・メルチー)]] — 位於阪神梅田 B1，近期超火紅嘅焦糖布丁伴手禮店。🍮🔥✨
 - [[大丸百貨 心齋橋店 (Daimaru Shinsaibashi)]] — 建築宏偉，內有 Pokémon Center 同任天堂商店！👾🎮
 - [[阿倍野 Q's Mall (Abeno Q's Mall)]] — 天王寺大型購物城，適合全家人一起逛。👨‍👩‍👧‍👦
 - [[難波 Parks (Namba Parks)]] — 城市森林風格建築，行街好舒服。🌿🛍️

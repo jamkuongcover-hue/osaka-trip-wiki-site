@@ -1,3 +1,0 @@
-# Koka Restaurants Catalog
-
-## Files

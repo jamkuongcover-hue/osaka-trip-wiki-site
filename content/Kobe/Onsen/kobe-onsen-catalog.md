@@ -1,3 +1,0 @@
-# Kobe Onsen Catalog
-
-## Files

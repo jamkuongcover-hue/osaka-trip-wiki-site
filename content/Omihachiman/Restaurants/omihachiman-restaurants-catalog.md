@@ -1,3 +1,0 @@
-# Omihachiman Restaurants Catalog
-
-## Files
