@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Hotel"
+subcategory: "Misc"
+status: "Research"
+---
+
 # THE BASEMENT HOTEL 大阪本町 (THE BASEMENT HOTEL Osaka Honmachi)
 
 ## 基本資訊

@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 南禪寺 順正 (Nanzenji Junsei)
 
 ![[nanzenji-junsei.jpg]]

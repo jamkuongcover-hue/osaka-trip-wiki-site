@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Sushi"
+status: "Research"
+---
+
 # 平宗 奈良店 (Hirasou)
 
 ![[hirasou.jpg]]

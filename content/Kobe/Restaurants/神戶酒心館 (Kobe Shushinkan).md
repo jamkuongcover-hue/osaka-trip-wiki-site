@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶酒心館 (Kobe Shushinkan Brewery) 🍶
 
 神戶「灘五鄉」著名嘅釀酒廠，佢哋嘅「福壽」清酒係諾貝爾獎晚宴指定用酒！環境好優雅，帶住屋企人嚟行下、食個蕎麥麵、飲啖好酒真係一流。

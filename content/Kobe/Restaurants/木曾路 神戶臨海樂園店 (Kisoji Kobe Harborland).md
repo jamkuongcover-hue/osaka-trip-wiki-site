@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Sukiyaki"
+status: "Research"
+---
+
 # 神戶 木曾路 (Kisoji Kobe Harborland) 🥘
 
 連鎖高品質壽喜燒同涮涮鍋店，Harborland 分店景觀好，而且空間大。

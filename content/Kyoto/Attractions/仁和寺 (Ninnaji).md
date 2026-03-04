@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 仁和寺 (Ninnaji)
 
 ![[ninnaji.jpg]]

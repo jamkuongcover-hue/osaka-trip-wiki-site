@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 平安神宮 (Heian Jingu)
 
 ![[heian-jingu.png]]

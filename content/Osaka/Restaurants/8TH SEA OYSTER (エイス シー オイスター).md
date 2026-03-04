@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 8TH SEA OYSTER (エイス シー オイスター)
 
 [[osaka-restaurants-catalog|回目錄]]

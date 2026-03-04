@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Sushi"
+status: "Research"
+---
+
 # 🍣 壽司處 黑杉 新館 (Sushi Dokoro Kurosugi Shinkan)
 
 ## 📋 基本資訊

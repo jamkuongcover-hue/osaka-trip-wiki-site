@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Ramen"
+status: "Research"
+---
+
 # 金久右衛門 (Kingemon) - 道頓堀店
 
 雖然一蘭好出名，但我想推薦呢間連續多年獲得大阪拉麵大賞第一名嘅「醬油拉麵」。

@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 兩足院 (Ryosokuin) - 建仁寺內
 
 ![[ryosokuin.jpg]]

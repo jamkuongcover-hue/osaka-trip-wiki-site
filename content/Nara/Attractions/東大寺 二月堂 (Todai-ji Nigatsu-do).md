@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 東大寺 二月堂 (Todai-ji Nigatsu-do)
 
 ![[todaiji-nigatsudo.jpg]]
@@ -12,5 +19,5 @@
 - 🍵 **龍美堂 (Ryubido)**：就在附近，可以吃一口蕨餅配茶，享受寧靜。
 - 🚶 **避開人群**：大佛殿人山人海，但走上來二月堂就會安靜很多。體力好的話一定要上來。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 [[東大寺 (Todai-ji)]]

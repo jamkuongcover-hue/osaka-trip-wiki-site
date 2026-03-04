@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 琉璃光院 (Rurikoin)
 
 ![[rurikoin.png]]

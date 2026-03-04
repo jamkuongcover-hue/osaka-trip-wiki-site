@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 銀閣寺 (Ginkakuji)
 
 ![[ginkakuji.jpg]]

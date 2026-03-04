@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 北野異人館街 (Kitano Ijinkan-gai)
 
 ## 📋 基本資訊

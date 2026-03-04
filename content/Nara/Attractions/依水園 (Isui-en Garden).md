@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 依水園 (Isui-en Garden)
 
 ![[isui-en.jpg]]
@@ -12,5 +19,5 @@
 - 🏮 **寧靜之選**：比起喧鬧的公園，這裡收費 (約 1200 日元) 成功過濾掉大量遊客。想要靜靜看風景的話，這裡絕對值得。
 - 🍁 **季節限定**：紅葉季美得像畫，但平時綠意盎然的苔蘚也非常療癒。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 [[吉城園 (Yoshikien Garden)]]

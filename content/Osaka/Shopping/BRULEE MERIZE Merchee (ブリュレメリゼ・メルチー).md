@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Shopping"
+subcategory: "Misc"
+status: "Research"
+---
+
 # BRULEE MERIZE Merchee (ブリュレメリゼ・メルチー) 🍮✨
 
 「BRULEE MERIZE Merchee」係一間專門製作「焦糖布丁 (Crème Brûlée)」風味甜點嘅名店，位於阪神百貨梅田本店 B1。呢度嘅甜點以「香脆焦糖」同「濃郁奶香」為核心，係近期大阪超人氣嘅伴手禮選擇。🍮🔥✨

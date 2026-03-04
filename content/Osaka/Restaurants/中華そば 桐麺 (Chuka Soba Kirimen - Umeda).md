@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 中華そば 桐麺 (Chuka Soba Kirimen - Umeda)
 
 - **Name**: 中華そば 桐麺 (Chuka Soba Kirimen - Umeda)

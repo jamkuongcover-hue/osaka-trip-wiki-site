@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Shopping"
+subcategory: "Misc"
+status: "Research"
+---
+
 # LAMU 超市 此花店 (LAMU Konohana) 🛒💰
 
 位於大阪此花區，係當地出名嘅「寶藏超市」，以價格極之便宜而聞名！

@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Museum"
+status: "Research"
+---
+
 # 神戶市立博物館 (Kobe City Museum) 🏛️
 
 位於舊居留地嘅漂亮建築，展示咗神戶作為國際港口嘅交流歷史，對於鐘意藝術同歷史嘅長輩嚟講係極佳選擇。

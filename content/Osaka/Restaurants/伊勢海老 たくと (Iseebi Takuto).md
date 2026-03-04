@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 鍋・海鮮居酒屋 伊勢海老 たくと (Iseebi Takuto)
 
 ![[iseebi-takuto.jpg]]

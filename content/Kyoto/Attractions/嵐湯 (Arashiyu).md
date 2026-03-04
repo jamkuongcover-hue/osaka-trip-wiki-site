@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 嵐湯 (Arashiyu) - Arashiyama Honten
 
 ![[arashiyu-footbath.jpg]]

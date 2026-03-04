@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Unknown"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 📍 難波 & 心齋橋 (Namba & Shinsaibashi Area)
 大阪最熱鬧嘅購物同美食核心區，遊客必去，但都有好多隱藏好嘢。
 

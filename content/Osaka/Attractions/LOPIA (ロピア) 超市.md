@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # LOPIA (ロピア) 超市
 
 [[osaka-attractions-catalog|返回大阪景點目錄]]

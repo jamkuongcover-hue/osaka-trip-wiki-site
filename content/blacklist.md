@@ -1,3 +1,10 @@
+---
+location: "Unknown"
+category: "Unknown"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 關西旅遊黑名單 (Kansai Blacklist)
 
 這份名單記錄了 Jam 或 Charlotte 核實過的「雷店」或不推薦的地點，避免在行程中踩坑。

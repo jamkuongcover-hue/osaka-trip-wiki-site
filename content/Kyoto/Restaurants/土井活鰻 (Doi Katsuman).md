@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 土井活鰻 (Doi Katsuman)
 
 ![[doi-katsuman-kinkakuji.jpg]]

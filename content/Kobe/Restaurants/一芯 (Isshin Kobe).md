@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Yakiniku"
+status: "Research"
+---
+
 # 神戶 燒肉 一心 (Isshin) 🥩
 
 主打黑毛和牛燒肉，熟食牛肉質素有保證。

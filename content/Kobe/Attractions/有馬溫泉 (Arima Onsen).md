@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 有馬溫泉 (Arima Onsen)
 
 ![[arima-onsen.png]]

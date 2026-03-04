@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Yakiniku"
+status: "Research"
+---
+
 # Satsuma USHINOKURA (Namba)
 
 A restaurant specializing in A5-ranked Satsuma Wagyu from Kagoshima, featuring many private rooms.

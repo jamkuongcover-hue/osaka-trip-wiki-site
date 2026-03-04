@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 三千院 (Sanzen-in)
 
 ![[sanzen-in.jpg]]

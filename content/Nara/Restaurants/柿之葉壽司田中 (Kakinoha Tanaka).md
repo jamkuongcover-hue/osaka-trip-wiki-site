@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Sushi"
+status: "Research"
+---
+
 # 柿之葉壽司 本家田中 (Tanaka)
 
 ![[kakinoha-tanaka.jpg]]

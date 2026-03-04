@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶動物王國 (Kobe Animal Kingdom) 🐾
 
 呢度可以近距離接觸動物，而且大部分係室內，落雨都唔驚。

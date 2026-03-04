@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Museum"
+status: "Research"
+---
+
 # 任天堂博物館 (Nintendo Museum)
 
 ![[nintendo-museum.jpg]]

@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 二条城 (Nijo Castle)
 
 位於京都中京區，係以前江戶幕府將軍喺京都嘅寓所，亦係世界文化遺產。

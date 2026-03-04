@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 大阪市立美術館 (Osaka City Museum of Fine Arts) 🏛️
 
 呢間美術館位於天王寺公園 (Tennoji Park) 入面，係一棟非常有歷史感嘅古歐陸風格建築。如果想睇日本古代或者中國古代嘅藝術品，呢度係大阪最豐富嘅藏館之一。

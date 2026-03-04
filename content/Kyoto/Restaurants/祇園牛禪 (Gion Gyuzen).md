@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Seafood"
+status: "Research"
+---
+
 # 祇園牛禪 (Gion Gyuzen)
 
 ![[gion-gyuzen.png]]

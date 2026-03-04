@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Ramen"
+status: "Research"
+---
+
 # 総大醤 (Soudaisho)
 
 呢間拉麵店係天神橋筋商店街附近嘅名物，仲入選咗 2025 年 Tabelog 拉麵百名店添！

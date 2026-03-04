@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 家和らぎ (Iwayuragi) 🍳🍚
 
 位於大阪心齋橋，係一間極受當地人推薦嘅小料理屋，以「朝 5 時開始嘅出汁卷蛋朝食」而聞名。

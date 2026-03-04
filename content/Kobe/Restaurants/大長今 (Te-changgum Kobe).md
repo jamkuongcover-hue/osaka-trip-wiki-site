@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶 大長今 (Te Changgum) 🥘
 
 神戶嘅韓式料理名店，韓式烤肉同埋熟湯類都好出色。

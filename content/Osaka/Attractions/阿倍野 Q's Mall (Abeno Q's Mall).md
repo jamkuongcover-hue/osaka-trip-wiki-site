@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 阿倍野 Q's Mall (Abeno Q's Mall) 
 
 Jam，呢度係大阪市內最大級數嘅購物中心，帶住全家大細嚟行商場，呢度就最舒服喇！

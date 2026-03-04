@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 貴船神社 (Kifune Jinja)
 
 ![[kifune-jinja.png]]

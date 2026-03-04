@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶たん龍 三宮店 (Kobe Tanryu Sannomiya)
 
 ![[kobe-tanryu.jpg]]

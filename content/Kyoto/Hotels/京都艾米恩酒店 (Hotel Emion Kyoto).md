@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Hotel"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 京都愛米恩酒店 (Hotel Emion Kyoto)
 
 位於 JR 梅小路京都西站旁嘅高性價比酒店。2020 年先開幕，設施好新淨，而且對家庭客同長輩非常友善。🚅👪

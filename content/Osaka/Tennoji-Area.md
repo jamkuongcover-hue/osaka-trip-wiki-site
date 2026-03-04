@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Unknown"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 🗼 天王寺 & 新世界 (Tennoji & Shinsekai Area)
 呢區混合咗昭和時代嘅懷舊同現代嘅摩天大樓。
 

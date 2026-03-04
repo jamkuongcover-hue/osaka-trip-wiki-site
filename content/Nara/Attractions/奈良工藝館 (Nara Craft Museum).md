@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Museum"
+status: "Research"
+---
+
 # 奈良工藝館 (Nara Craft Museum)
 
 ![[nara-craft-museum.jpg]]
@@ -9,6 +16,6 @@
 - **描述**: 展示奈良著名的傳統工藝品，如奈良一刀彫、奈良筆、赤膚燒等。
 - **Charlotte's Tip**: 這裡就在奈良町附近，全程平路且有冷氣，是帶長輩躲太陽或避雨的好地方。免費參觀，CP值超高。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 ### Features
 (Pending research)

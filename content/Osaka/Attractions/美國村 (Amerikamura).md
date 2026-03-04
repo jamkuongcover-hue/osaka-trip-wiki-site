@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 美國村 (Amerikamura / Amemura) 
 
 ![[amerikamura.jpg]]

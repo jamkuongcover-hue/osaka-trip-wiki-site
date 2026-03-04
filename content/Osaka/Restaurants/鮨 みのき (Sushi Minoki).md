@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Sushi"
+status: "Research"
+---
+
 # 鮨 みのき (Sushi Minoki)
 
 ## 📋 基本資訊

@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Ramen"
+status: "Research"
+---
+
 # 彩華拉麵 (Saika Ramen)
 
 ![[saika-ramen.jpg]]

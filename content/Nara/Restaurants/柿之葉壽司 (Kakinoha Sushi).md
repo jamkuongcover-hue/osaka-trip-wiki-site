@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Sushi"
+status: "Research"
+---
+
 # 柿葉壽司 (Kakinoha Sushi)
 
 ![[kakinoha-sushi.jpg]]

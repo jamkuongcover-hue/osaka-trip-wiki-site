@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Yakiniku"
+status: "Research"
+---
+
 # 國產牛燒肉 ABUYA (Aburiya) - 道頓堀御堂筋店
 
 如果你鍾意食肉，又想食得爽，ABUYA 嘅燒肉放題 (All-you-can-eat) 係性價比之王。

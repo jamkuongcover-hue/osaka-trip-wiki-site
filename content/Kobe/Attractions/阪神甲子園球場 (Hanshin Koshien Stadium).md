@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Museum"
+status: "Research"
+---
+
 # 阪神甲子園球場 (Hanshin Koshien Stadium) ⚾
 
 日本棒球的聖地，阪神虎隊的主場。就算唔係棒球粉，嚟到呢度感受下嗰種熱血氣氛都好正。博物館部分好適合成家人一齊睇。

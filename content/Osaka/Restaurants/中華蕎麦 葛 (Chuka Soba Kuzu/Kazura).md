@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Yakiniku"
+status: "Research"
+---
+
 # 中華蕎麦 葛 (Chuka Soba Kuzu/Kazura)
 
 ![[kuzu-ramen.jpg]]

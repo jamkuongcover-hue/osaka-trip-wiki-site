@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 錦市場 (Nishiki Market)
 
 ## 📋 基本資訊

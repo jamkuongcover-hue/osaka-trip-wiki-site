@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶市立森林植物園 (Kobe Municipal Arboretum) 🌳
 
 一個藏喺六甲山入面嘅森林秘境，四季景色分明，非常適合鐘意影相或者想遠離市區喧囂嘅家庭。

@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Seafood"
+status: "Research"
+---
+
 # 蟹道樂 (Kani Doraku) - 網元本館 (Amimoto Honkan)
 
 ## 📍 基本資訊

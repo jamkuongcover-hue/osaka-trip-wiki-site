@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 東福寺 (Tofukuji)
 
 ![[tofukuji.jpg]]

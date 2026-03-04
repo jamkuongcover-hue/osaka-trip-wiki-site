@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 伊根舟屋 (Ine Funaya)
 
 ![[ine-funaya.png]]

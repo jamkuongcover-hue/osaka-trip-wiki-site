@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 神戶麵包超人兒童博物館 (Kobe Anpanman Children's Museum & Mall) 🍞
 
 帶細小朋友嚟神戶必去嘅景點！位於 Harborland，環境好舒服，充滿歡笑聲。

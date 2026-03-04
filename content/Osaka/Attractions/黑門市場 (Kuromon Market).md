@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 黑門市場 (Kuromon Market)
 
 被譽為「大阪的廚房」，擁有超過 150 間店鋪，係海鮮同美食愛好者嘅天堂！🦞✨

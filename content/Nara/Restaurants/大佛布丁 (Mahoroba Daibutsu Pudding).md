@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 大佛布丁 (Mahoroba Daibutsu Pudding)
 
 ![[daibutsu-pudding.jpg]]

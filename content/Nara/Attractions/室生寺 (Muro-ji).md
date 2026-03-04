@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 室生寺 (Muro-ji)
 
 ![[muroji.jpg]]
@@ -10,6 +17,6 @@
 - **描述**: 隱藏在森林裡的寺廟，有全日本最小的戶外五重塔，氛圍非常寧靜。
 - **Charlotte's Tip**: 這裡非常安靜，適合想要避開人群的家庭。石階雖然不算太陡，但路面稍有不平，建議長輩拿個登山杖或慢慢走。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 ### Features
 (Pending research)

@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 幡・INOUE (Ban Inoue)
 
 ![[ban-inoue.jpg]]

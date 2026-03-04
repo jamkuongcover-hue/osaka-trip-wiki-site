@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 龍安寺 (Ryoanji)
 
 ![[ryoanji.jpg]]

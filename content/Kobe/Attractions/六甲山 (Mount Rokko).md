@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Landmark"
+status: "Research"
+---
+
 # 六甲山 (Mount Rokko) 🏔️
 
 呢度可以睇到傳說中嘅「百萬美金夜景」，仲有好多唔同嘅休閒設施。

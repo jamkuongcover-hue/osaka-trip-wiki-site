@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Sukiyaki"
+status: "Research"
+---
+
 # すき焼き 藤もと (Sukiyaki Fujimoto) 🥩🥘
 
 位於大阪心齋橋主街道附近嘅高質壽喜燒店，以性價比高同埋可以用 TableCheck 預約而聞名。

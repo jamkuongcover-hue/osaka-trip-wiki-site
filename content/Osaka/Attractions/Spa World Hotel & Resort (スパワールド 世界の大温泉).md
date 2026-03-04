@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # Spa World Hotel & Resort (スパワールド 世界の大温泉)
 
 ![[spaworld-osaka-exterior.jpg]]

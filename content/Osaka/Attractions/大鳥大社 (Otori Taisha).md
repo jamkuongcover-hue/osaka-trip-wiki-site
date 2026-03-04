@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 大鳥大社 (Otori Taisha) ⛩️
 
 位於大阪府堺市，係和泉國嘅一之宮，歷史非常悠久。

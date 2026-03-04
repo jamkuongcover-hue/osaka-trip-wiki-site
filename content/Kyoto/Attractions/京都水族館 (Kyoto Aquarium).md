@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 京都水族館 (Kyoto Aquarium)
 
 ![[kyoto-aquarium.jpg]]

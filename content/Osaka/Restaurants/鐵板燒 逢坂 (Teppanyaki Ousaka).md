@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # Teppanyaki OUSAKA (Hotel Plaza Osaka)
 
 A teppanyaki restaurant on the top floor of Hotel Plaza Osaka offering Omi beef and city views.

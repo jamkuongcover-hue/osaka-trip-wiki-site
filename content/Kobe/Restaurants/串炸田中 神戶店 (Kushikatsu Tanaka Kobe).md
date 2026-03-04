@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶 串炸 Tanaka (Kushikatsu Tanaka Kobe) 🍢
 
 雖然係大阪起源，但神戶分店同樣受歡迎，熟炸物係備孕期間嘅好選擇。

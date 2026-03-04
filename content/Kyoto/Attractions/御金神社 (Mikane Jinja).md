@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 御金神社 (Mikane Jinja) ⛩️💰
 
 ![[mikane-jinja-omamori.jpg]]

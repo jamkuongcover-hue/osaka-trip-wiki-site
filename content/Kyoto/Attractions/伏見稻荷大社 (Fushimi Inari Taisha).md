@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 伏見稻荷大社 (Fushimi Inari Taisha)
 
 去京都如果唔去伏見稻荷，就等於冇去過京都！呢度最出名嘅就係嗰條無止盡嘅「千本鳥居」。

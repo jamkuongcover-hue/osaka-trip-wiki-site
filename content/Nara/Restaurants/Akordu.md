@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # Akordu
 
 ![[akordu-nara.jpg]]

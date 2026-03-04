@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # Kobe Steak Restaurant Mouriya
 
 A 130-year established restaurant famous for its premium aged Kobe beef.

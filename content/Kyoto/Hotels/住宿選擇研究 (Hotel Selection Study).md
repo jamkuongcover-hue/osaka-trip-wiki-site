@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Hotel"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 京都及大阪住宿選擇研究 (Hotel Selection Study)
 
 ### 京都飯店對比 (Kyoto Hotels Comparison)

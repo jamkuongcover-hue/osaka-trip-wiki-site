@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Shopping"
+subcategory: "Misc"
+status: "Research"
+---
+
 # OS Drug (オーエスドラッグ) 💊💰
 
 ![[os-drug-storefront.jpg]]

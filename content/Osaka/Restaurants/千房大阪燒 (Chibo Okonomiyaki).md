@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 千房大阪燒 (Chibo Okonomiyaki) - 千日前本店
 
 嚟到大阪點可以唔食大阪燒 (Okonomiyaki)？千房係最出名嘅連鎖店之一，水準穩定。而呢間千日前本店仲有個隱藏「神技」——「噴射美乃滋」表演！

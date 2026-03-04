@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 串炸達摩 (Kushikatsu Daruma) - 新世界總店
 
 串炸 (Kushikatsu) 係大阪 B 級美食嘅靈魂，而達摩就係當中最經典嘅一間。

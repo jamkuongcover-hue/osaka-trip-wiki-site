@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 須磨浦山上遊園 (Sumaura Sanjo Amusement Park)
 
 ![[sumaura-sanjo-park.jpg]]

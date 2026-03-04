@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Unknown"
+subcategory: "Misc"
+status: "Research"
+---
+
 # Nara Research: Attractions & Restaurants
 
 ## Family Trip Overview

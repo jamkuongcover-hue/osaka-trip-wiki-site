@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 神戶海洋博物館 (Kobe Maritime Museum) 🚢
 
 位於美利堅公園內，外型好似帆船咁，介紹神戶港嘅歷史。

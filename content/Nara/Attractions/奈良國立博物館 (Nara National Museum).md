@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 奈良國立博物館 (Nara National Museum)
 
 ![[nara-national-museum.jpg]]
@@ -14,11 +21,11 @@
 如果你對佛像有興趣，呢度絕對係天堂。館內嘅佛像館展示咗好多古代國寶，打光同佈置都好專業。比起去寺廟睇，喺博物館可以更近距離、更清楚咁欣賞呢啲藝術品。記得去埋地下室間咖啡廳休息吓，嗰度嘅氣氛都唔錯㗎。
 
 ---
-區域: [[nara-main-catalog|奈良 (Nara)]]
-地區目錄: [[nara-attractions-catalog|奈良景點目錄]]
+區域: [[Nara/nara-main-catalog|奈良 (Nara)]]
+地區目錄: [[Nara/Attractions/nara-attractions-catalog|奈良景點目錄]]
 
 ### Features
 (Pending research)
 
 ---
-[[nara-attractions-catalog|返回目錄]]
+[[Nara/Attractions/nara-attractions-catalog|返回目錄]]

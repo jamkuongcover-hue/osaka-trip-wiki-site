@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Sushi"
+status: "Research"
+---
+
 # 頑固壽司 (Ganko Sushi) - 寶塚苑 / 屋敷店
 
 ## 📍 基本資訊

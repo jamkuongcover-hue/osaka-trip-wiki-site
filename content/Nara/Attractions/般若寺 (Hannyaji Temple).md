@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 般若寺 (Hannyaji Temple)
 
 ![[hannyaji.jpg]]
@@ -12,4 +19,4 @@
 - 🧊 **玻璃球裝置**：近年來寺方會把大波斯菊放在透明玻璃球或水盤裡，拍照起來超級精緻，少女心炸裂！
 - 🚶 **位置稍遠**：離東大寺主景區有一段距離，建議搭公車或騎腳踏車過來。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]

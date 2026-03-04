@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Yakiniku"
+status: "Research"
+---
+
 # 神戶 官兵衛 (Kanbei) 🥩
 
 神戶牛燒肉同鐵板燒名店，專門選用高品質嘅 A5 級神戶牛。

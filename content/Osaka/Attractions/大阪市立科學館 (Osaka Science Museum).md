@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Museum"
+status: "Research"
+---
+
 # 大阪市立科學館 (Osaka Science Museum) 
 
 Jam，如果你想俾小朋友邊玩邊學，呢度絕對係首選！呢度啱啱喺 2024 年 8 月重裝開業，設施最新最齊。

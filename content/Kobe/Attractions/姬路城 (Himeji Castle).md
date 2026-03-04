@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 姬路城 (Himeji Castle)
 
 ![[himeji-castle.png]]

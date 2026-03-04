@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Seafood"
+status: "Research"
+---
+
 # かに道楽 京都本店 (Kani Doraku Kyoto Honten)
 
 ## 📋 基本資訊

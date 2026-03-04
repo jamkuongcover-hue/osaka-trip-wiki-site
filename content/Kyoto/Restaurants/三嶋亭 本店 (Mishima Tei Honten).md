@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Sukiyaki"
+status: "Research"
+---
+
 # 三嶋亭 本店 (Mishima Tei Honten)
 
 ![[mishima-tei-honten.jpg]]

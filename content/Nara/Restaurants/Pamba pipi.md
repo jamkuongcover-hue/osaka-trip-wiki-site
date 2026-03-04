@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # Pamba pipi
 
 ![[pamba-pipi.jpg]]

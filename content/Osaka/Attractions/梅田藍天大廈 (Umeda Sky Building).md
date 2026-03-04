@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Landmark"
+status: "Research"
+---
+
 # 梅田藍天大廈 Umeda Sky Building
 
 ![[umeda-sky.jpg]]

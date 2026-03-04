@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 天橋立 (Amanohashidate) - 海之京都 🌊 ⭐必去重點行程⭐
 
 ![[amanohashidate.jpg]]

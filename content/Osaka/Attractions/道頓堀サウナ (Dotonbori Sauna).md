@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 道頓堀サウナ (Dotonbori Sauna)
 
 - **地址**：大阪市中央區島之內2丁目17-4

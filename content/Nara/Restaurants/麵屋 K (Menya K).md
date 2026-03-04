@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Ramen"
+status: "Research"
+---
+
 # 麵屋 K (Menya K)
 
 ![[menya-k.jpg]]

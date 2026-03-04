@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Yakiniku"
+status: "Research"
+---
+
 # Yakiniku Toraji (Hilton Plaza Osaka West)
 
 A famous Wagyu chain's high-end branch offering thick-cut beef in private rooms.

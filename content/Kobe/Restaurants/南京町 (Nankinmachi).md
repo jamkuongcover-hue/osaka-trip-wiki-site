@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶南京町 (Nankinmachi) 🥟
 
 神戶嘅中華街，呢度有好多街頭小食，熟食選擇多到數唔晒。

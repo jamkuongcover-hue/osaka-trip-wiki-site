@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 千壽庵吉宗 (Senju-an Yoshimune)
 
 ![[senjuan.jpg]]

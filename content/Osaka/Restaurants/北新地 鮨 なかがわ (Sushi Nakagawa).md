@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Sushi"
+status: "Research"
+---
+
 # 🍣 北新地 壽司 中川 (Kitashinchi Sushi Nakagawa)
 
 ## 📋 基本資訊

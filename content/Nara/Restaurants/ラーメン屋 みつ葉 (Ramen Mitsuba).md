@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Ramen"
+status: "Research"
+---
+
 # ラーメン屋 みつ葉 (Ramen Mitsuba)
 
 ![[ramen-mitsuba.jpg]]

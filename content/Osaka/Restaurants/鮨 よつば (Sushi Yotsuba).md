@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Sushi"
+status: "Research"
+---
+
 # 🍣 壽司 四葉 (Sushi Yotsuba)
 
 ## 📋 基本資訊

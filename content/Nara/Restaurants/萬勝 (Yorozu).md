@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 萬勝 (Yorozu)
 
 ![[yorozu-nara.jpg]]

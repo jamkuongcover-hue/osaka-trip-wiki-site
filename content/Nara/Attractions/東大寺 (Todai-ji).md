@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 東大寺 (Todai-ji)
 
 ![[todai-ji.jpg]]
@@ -21,4 +28,4 @@
 入到大佛殿之後，記得去搵嗰條據講同大佛鼻哥窿一樣大嘅柱窿呀！鑽得過嘅話會有好運，但係如果你身材太「豐滿」就唔好夾硬嚟喇，卡住咗好醜怪㗎。 仲有，門口啲鹿特別兇猛，買咗鹿餅記得收好，唔係佢哋會搶你件衫㗎！
 
 ---
-[[nara-attractions-catalog|返回目錄]]
+[[Nara/Attractions/nara-attractions-catalog|返回目錄]]

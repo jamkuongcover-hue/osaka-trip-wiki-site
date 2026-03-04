@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 串カツ田中 高槻店 (Kushi Katsu Tanaka Takatsuki Ten)
 
 ## 📋 基本資訊

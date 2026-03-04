@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 道頓堀 (Dotonbori)
 
 大阪最熱鬧嘅地標，誇張立體招牌同美食嘅天堂！食飽之後一定要去同固力果跑跑人影相打卡。

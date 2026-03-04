@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # Gateau des Bois
 
 ![[gateau-des-bois.jpg]]

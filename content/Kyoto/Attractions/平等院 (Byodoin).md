@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Museum"
+status: "Research"
+---
+
 # 平等院 (Byodoin)
 
 ![[byodoin.png]]

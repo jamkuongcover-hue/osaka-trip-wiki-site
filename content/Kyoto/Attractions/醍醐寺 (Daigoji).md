@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 醍醐寺 (Daigoji)
 
 ![[daigoji.jpg]]

@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 生駒山上遊樂園 (Ikoma Sanjo Amusement Park)
 
 ![[ikoma-sanjo-amusement-park.jpg]]
@@ -12,5 +19,5 @@
 - 🚠 **趣味纜車**：搭乘生駒鋼索線（Ikoma Cable）上山，纜車造型是鬥牛犬和三色貓，小朋友（和少女心爆發的人）會瘋掉。
 - 🏙️ **百萬夜景**：夏季特定日期會開放到晚上，那裡的夜景被評為日本前幾名，非常震撼。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 [[信貴山 (Mount Shigisan)]]

@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 上賀茂神社 (Kamigamo Jinja)
 
 ![[kamigamo-jinja.jpg]]

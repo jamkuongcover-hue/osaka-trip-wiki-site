@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 天王寺公園 (Tennoji Park) 
 
 Jam，呢度就在天王寺站隔離，行完阿倍野 HARUKAS 或者動物園之後，嚟呢度散步就最 chill。

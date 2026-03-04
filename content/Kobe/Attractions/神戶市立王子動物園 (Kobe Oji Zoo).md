@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 神戶市立王子動物園 (Kobe Oji Zoo) 🐼
 
 神戶市內最受歡迎嘅動物園，雖然設施有啲歷史感，但係好親民，而且有日本唯一可以同時睇到大熊貓同尾熊嘅地方 (雖然熊貓依家要睇運氣)。

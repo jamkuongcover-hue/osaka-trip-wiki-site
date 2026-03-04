@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 唐招提寺 (Toshodaiji Temple)
 
 ![[toshodai-ji.jpg]]
@@ -14,11 +21,11 @@
 嚟呢度一定要去睇鑒真和尚嘅座像（雖然每年只公開幾日）。呢間寺廟畀人一種好莊嚴、好平靜嘅感覺，同奈良公園嗰種熱鬧完全唔同。境內嘅苔蘚都好靚，行路嗰陣記得留意吓腳下，唔好掛住睇手機呀。
 
 ---
-區域: [[nara-main-catalog|奈良 (Nara)]]
-地區目錄: [[nara-attractions-catalog|奈良景點目錄]]
+區域: [[Nara/nara-main-catalog|奈良 (Nara)]]
+地區目錄: [[Nara/Attractions/nara-attractions-catalog|奈良景點目錄]]
 
 ### Features
 (Pending research)
 
 ---
-[[nara-attractions-catalog|返回目錄]]
+[[Nara/Attractions/nara-attractions-catalog|返回目錄]]

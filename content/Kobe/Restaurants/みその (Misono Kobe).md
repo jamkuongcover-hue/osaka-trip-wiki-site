@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶 Misono (元祖鐵板燒美園) 🥩
 
 鐵板燒嘅創始店，歷史地位十足，想試正宗鐵板燒就係呢度。

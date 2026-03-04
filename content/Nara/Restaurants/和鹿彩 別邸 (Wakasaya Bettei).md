@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Yakiniku"
+status: "Research"
+---
+
 # 和鹿彩 別邸 (Wakasaya Bettei)
 
 ![[wakasaya-bettei.jpg]]

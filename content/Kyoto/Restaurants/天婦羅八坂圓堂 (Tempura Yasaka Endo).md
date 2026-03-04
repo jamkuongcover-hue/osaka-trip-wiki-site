@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 天婦羅八坂圓堂 (Tempura Yasaka Endo)
 
 ![[tempura-yasaka-endo.jpg]]

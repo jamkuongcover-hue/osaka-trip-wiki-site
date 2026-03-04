@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Museum"
+status: "Research"
+---
+
 # 大阪生活今昔博物館 (Osaka Museum of Housing and Living) 
 
 呢度係日本第一座以「大阪生活」為主題嘅博物館，Jam，帶屋企人嚟呢度感受吓江戶時代嘅大阪就最啱喇！

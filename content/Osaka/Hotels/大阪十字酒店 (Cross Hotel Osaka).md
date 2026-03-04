@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Hotel"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 大阪十字酒店 (Cross Hotel Osaka)
 
 如果你鍾意行街，心齋橋十字酒店絕對係首選！佢門口條紅柱超搶眼，喺心齋橋筋商店街旁邊，位置極佳。

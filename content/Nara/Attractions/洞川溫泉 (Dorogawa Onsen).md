@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 洞川溫泉 (Dorogawa Onsen)
 
 ![[dorogawa-onsen.jpg]]
@@ -8,6 +15,6 @@
 - **描述**: 位在吉野郡天川村的秘境溫泉，充滿昭和感的老街與天然溫泉。
 - **Charlotte's Tip**: 夏天來這裡避暑真的爽到爆，冬天雪景更是浪漫。如果你不想趕火車，我建議直接找間溫泉旅館住一晚，在大山環繞中泡湯真的能洗掉你那一身社畜的疲憊。♨️
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 ### Features
 (Pending research)

@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Museum"
+status: "Research"
+---
+
 # 國立國際美術館 (The National Museum of Art, Osaka) 
 
 Jam，呢度就在中之島美術館隔離，最特別係成個展場都係喺地下㗎！

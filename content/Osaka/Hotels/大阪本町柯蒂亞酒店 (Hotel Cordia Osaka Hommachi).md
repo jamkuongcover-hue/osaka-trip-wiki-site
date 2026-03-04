@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Hotel"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 大阪本町柯蒂亞酒店 (Hotel Cordia Osaka Hommachi)
 
 [[osaka-hotels-catalog|⬅️ 返回大阪酒店目錄]]

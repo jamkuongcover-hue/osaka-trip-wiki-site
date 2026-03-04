@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 大阪天王寺動物園 (Tennoji Zoo) 🦁
 
 呢間係日本第三間創立嘅動物園，歷史非常悠久。如果你想同小朋友或者老人家慢慢行，呢度係一個好放鬆嘅選擇，特別係入面嘅熱帶雨林區同埋非洲草原區。

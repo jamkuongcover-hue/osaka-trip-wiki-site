@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 奈良縣立萬葉文化館 (Manyo Bunkakan)
 
 ![[manyo-bunkakan.jpg]]
@@ -8,6 +15,6 @@
 - **描述**: 位於明日香村，致力於《萬葉集》的研究與展示，有許多蠟像模型呈現古代生活。
 - **Charlotte's Tip**: 館內設備非常現代化，無障礙設施完善。室內參觀不受天氣影響，是探索飛鳥地區時的最佳休息與學習點。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 ### Features
 (Pending research)

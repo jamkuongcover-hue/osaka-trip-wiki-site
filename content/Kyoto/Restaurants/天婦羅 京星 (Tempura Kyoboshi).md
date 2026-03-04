@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Seafood"
+status: "Research"
+---
+
 # 天ぷら 京星 (Tempura Kyoboshi)
 
 ## 📋 基本資訊

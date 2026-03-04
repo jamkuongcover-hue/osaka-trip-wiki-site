@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Sukiyaki"
+status: "Research"
+---
+
 # 牛鍋力山 (Gyunabe Chikara Yama)
 
 ![[gyunabe-chikara-yama.jpg]]

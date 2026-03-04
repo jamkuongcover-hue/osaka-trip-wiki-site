@@ -1,3 +1,10 @@
+---
+location: "Unknown"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 近江八幡水鄉巡禮 (Omihachiman Suigo Meguri)
 
 ## 📍 基本資訊

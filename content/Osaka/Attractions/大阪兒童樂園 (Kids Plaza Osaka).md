@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Museum"
+status: "Research"
+---
+
 # 大阪兒童樂園 (Kids Plaza Osaka) 
 
 Jam，呢個係日本第一個真正為兒童設計嘅博物館，如果帶住細路仔嚟大阪，呢度絕對係 No. 1 嘅放電聖地！

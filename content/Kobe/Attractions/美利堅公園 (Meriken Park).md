@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 美利堅公園 (Meriken Park) ⚓
 
 神戶港嘅象徵，呢度有神戶港燈塔同埋好多藝術裝置，係散步同影相嘅好地方。

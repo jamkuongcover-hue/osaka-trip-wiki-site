@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 北野天滿宮 (Kitano Tenmangu)
 
 ![[kitano-tenmangu.jpg]]

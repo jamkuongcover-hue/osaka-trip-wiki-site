@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Landmark"
+status: "Research"
+---
+
 # 阿倍野展望台 HARUKAS 300
 
 ![[harukas300.jpg]]

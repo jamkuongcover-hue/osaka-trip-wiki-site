@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 浮見堂 (Ukimido)
 
 ![[ukimido.jpg]]
@@ -12,5 +19,5 @@
 - 🛶 **划船體驗**：雖然可以划船，但 Charlotte 覺得站在岸邊看更有意境（而且划船很累）。
 - 💡 **夜間點燈**：晚上會有輕微點燈，跟白天的感覺完全不同，散步很浪漫。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 [[奈良公園 (Nara Park)]]

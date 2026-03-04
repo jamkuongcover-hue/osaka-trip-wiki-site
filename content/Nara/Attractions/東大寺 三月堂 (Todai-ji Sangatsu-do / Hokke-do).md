@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 東大寺 三月堂 (Todai-ji Sangatsu-do / Hokke-do)
 
 ![[todaiji-sangatsudo.jpg]]
@@ -12,6 +19,6 @@
 - 🏛️ **建築美學**：它由兩個不同時代的建築拼接而成，如果你對歷史建築感興趣，細看拼接處很有趣。
 - 🧘 **心靈淨化**：比起熱鬧的大佛殿，這裡能讓人安靜下來感受歷史的厚重感。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 [[東大寺 (Todai-ji)]]
 [[東大寺 二月堂 (Todai-ji Nigatsu-do)]]

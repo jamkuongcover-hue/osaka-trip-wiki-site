@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 岡崎神社 (Okazaki Jinja) - 兔子神社 🐰⛩️
 
 位於京都，以滿滿嘅兔子裝飾同求子、安產而聞名，係鄺太同 Jam 今次京都行程必去嘅地方！

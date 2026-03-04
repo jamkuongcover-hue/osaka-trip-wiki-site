@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 大阪中之島美術館 (Nakanoshima Museum of Art, Osaka) 🎨
 
 呢間美術館建築本身就係一件藝術品 (個黑色大盒設計真係好型)！如果你想喺行程入面加少少文藝氣息，呢度絕對係首選。

@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 信貴山朝護孫子寺 (Shigisan Chogosonshi-ji)
 
 ![[shigisan.jpg]]
@@ -8,6 +15,6 @@
 - **描述**: 以「世界第一大紙糊老虎」聞名，是求財運和開運的聖地。
 - **Charlotte's Tip**: 那隻會搖頭的大老虎超適合拍照。不過這裡有些坡度，建議長輩搭巴士或計程車直接到信貴山門，少走一點路。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 ### Features
 (Pending research)

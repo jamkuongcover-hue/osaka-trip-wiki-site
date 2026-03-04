@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # Koe Donuts (Koe Donuts)
 
 ![[koe-donuts.jpg]]

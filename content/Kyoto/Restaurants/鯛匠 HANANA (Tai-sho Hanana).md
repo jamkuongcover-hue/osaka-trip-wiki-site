@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 鯛匠 HANANA (Tai-sho HANANA)
 
 ## 📋 基本資訊

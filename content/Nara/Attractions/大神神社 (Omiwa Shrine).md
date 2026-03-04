@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 大神神社 (Omiwa Shrine)
 
 ![[omiwa-shrine.jpg]]
@@ -8,6 +15,6 @@
 - **描述**: 以三輪山為神體，主祭大物主大神。那座超巨大的大鳥居是地標，路過絕對不會錯過。
 - **Charlotte's Tip**: 參道兩旁很舒服，長輩慢慢走完全沒問題。記得去喝這裡的「神水」，還有三輪素麵也是必吃的！
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 ### Features
 (Pending research)

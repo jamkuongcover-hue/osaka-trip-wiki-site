@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 日本環球影城 (Universal Studios Japan / USJ)
 
 大阪必去嘅主題樂園，無論係想搵返童年回憶定係追求刺激都滿足到你。特別係新開嘅任天堂園區，簡直係將個 Game 直接搬咗入現實世界咁！🎮

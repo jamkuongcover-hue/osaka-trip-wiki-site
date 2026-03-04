@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 金閣寺 (Kinkaku-ji / Rokuon-ji)
 
 原名鹿苑寺，係京都最標誌性嘅景點。核心建築「舍利殿」外牆全部貼滿金箔，喺鏡湖池嘅倒影真係靚到好似畫咁。

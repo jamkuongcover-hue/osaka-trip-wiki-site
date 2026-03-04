@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 舞子海上散步道 (Maiko Marine Promenade) 🌉
 
 可以近距離感受世界最長吊橋——明石海峽大橋嘅震撼！喺大橋內部行，風景同體驗都係一流。

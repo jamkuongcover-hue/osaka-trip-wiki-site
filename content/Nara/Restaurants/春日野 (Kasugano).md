@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 春日野 (Kasugano)
 
 ![[kasugano-nara.jpg]]

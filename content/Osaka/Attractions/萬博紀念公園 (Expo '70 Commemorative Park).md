@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 萬博紀念公園 (Expo '70 Commemorative Park) 
 
 Jam，呢度係 1970 年世界博覽會嘅舊址，而家變成咗一個超大、超舒服嘅自然文化公園。

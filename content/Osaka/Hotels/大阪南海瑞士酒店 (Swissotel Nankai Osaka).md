@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Hotel"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 大阪南海瑞士酒店 (Swissôtel Nankai Osaka)
 
 呢間酒店就喺南海難波站正上方，位置簡直係神級！無論係由機場搭 Rap:t 嚟，定係要去心齋橋行街，都係方便到極。

@@ -1,3 +1,10 @@
+---
+location: "Unknown"
+category: "Unknown"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 關西之旅：連鎖店分店指南 (Chain Store Guide)
 
 呢份指南幫你整理咗行程中會遇到嘅主要連鎖店分店，確保你喺邊一區都可以方便咁搵到。

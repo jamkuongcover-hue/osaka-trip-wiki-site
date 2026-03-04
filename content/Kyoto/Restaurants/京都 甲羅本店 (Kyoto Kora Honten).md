@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Seafood"
+status: "Research"
+---
+
 # 京都 甲羅本店 (Kyoto Kora Honten)
 
 ## 📋 基本資訊

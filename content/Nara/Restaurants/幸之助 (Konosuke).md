@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 田中町 幸之助 (Konosuke)
 
 ![[konosuke.jpg]]

@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 神戶港燈塔 (Kobe Port Tower) 🗼
 
 神戶嘅地標，紅色嘅鼓狀建築非常醒目。最近翻新完，上面個景真係一流。

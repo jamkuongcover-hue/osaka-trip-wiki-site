@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Hotel"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 大阪洲際酒店 (InterContinental Hotel Osaka)
 
 位於梅田 Grand Front Osaka 入面，係大阪目前數一數二最奢華嘅酒店。如果你想喺大阪享受極致嘅貴婦生活，呢度絕對係首選。

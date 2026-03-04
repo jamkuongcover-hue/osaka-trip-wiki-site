@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Yakiniku"
+status: "Research"
+---
+
 # 焼肉ホルモン 万千 (Yakiniku Horumon Mansen) 🥩🔥
 
 ![[mansen-horumon-exterior.jpg]]

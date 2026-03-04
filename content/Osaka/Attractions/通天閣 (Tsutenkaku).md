@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 通天閣 & 新世界 (Tsutenkaku & Shinsekai) 🗼✨
 
 大阪嘅象徵性地標，充滿濃濃嘅「下町」昭和風情，呢度先係最地道嘅大阪味道！

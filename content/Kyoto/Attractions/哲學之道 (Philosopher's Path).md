@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 哲學之道 (Philosopher's Path)
 
 ![[tetsugaku-no-michi.png]]

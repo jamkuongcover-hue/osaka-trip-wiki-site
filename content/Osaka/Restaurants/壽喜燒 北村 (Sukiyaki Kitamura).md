@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Sukiyaki"
+status: "Research"
+---
+
 # Sukiyaki Kitamura
 
 A Michelin 1-star sukiyaki specialty restaurant founded in 1881.

@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 天保山大摩天輪 (Tempozan Ferris Wheel)
 
 ## 📍 基本資訊

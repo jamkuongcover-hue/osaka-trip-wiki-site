@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Ramen"
+status: "Research"
+---
+
 # 麵屋 豬一 (Menya Inoichi)
 
 ## 📋 基本資訊

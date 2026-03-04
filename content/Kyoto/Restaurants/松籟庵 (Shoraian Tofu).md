@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 豆腐料理 松籟庵 (Shoraian)
 
 ## 📍 基本資訊

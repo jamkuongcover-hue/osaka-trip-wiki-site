@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Ramen"
+status: "Research"
+---
+
 # 祇園宇野由紀子 (Gion Unoyukiko)
 
 ![[gion-unoyukiko.png]]

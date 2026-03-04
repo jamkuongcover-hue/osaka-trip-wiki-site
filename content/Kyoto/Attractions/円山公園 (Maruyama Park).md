@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 円山公園 (Maruyama Park)
 
 ![[maruyama-park.jpg]]

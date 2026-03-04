@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # GRIDDLE FORCE 逸楽 (Griddle Force Itsuraku)
 
 ![[griddle-force-itsuraku.jpg]]

@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 清水寺 (Kiyomizu-dera)
 
 京都最出名嘅地標，無嚟過清水寺唔好同人講你嚟過京都。🍵 呢度嘅建築美學同四季景色真係無得輸，係絕對要打卡嘅地方。

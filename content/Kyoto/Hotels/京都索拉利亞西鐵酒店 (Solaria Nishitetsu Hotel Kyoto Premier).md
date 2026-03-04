@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Hotel"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 索拉利亞西鐵酒店 - 京都 Premier (Solaria Nishitetsu Hotel Kyoto Premier)
 
 位於鴨川畔嘅高評分酒店，結合咗現代感同埋京都傳統美學。無論係位置定係設施，都係帶太太去旅行嘅浪漫之選。🌊✨

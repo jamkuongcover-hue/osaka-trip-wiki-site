@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 中村藤吉 本店 (Nakamura Tokichi)
 
 ![[nakamura-tokichi.png]]

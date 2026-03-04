@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 春日大社 (Kasuga Taisha)
 
 ![[kasuga-taisha.webp]]
@@ -10,4 +17,4 @@
 - **描述**: 奈良最重要的神社，也是藤原氏的守護神社。境內的三千多座石燈籠和吊燈籠非常壯觀。
 - **Charlotte's Tip**: 萬燈籠祭典的時候來真的美爆，但如果你平時來，記得去找那隻叼著捲軸的鹿神像。在這裡求個鹿形御守真的很有特色，不買白不買。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]

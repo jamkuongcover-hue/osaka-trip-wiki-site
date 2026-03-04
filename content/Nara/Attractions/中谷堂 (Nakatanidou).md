@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 中谷堂 (Nakatanidou)
 
 ![[nakatanidou.jpg]]
@@ -12,5 +19,5 @@
 - 📸 **高速搗餅表演**：每天不定期會有搗餅表演，速度快到看不清手影！如果你看到店門口開始聚集人群，趕快卡位拍照。
 - 💸 **價格親民**：一塊才 150-200 日元左右，是絕佳的散步美食。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 [[nara-restaurants-catalog]]

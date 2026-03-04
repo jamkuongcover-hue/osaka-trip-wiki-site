@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Yakiniku"
+status: "Research"
+---
+
 # 肉匠 なか田 本店 (Nikusyo Nakata Honten)
 
 ![[nikusyo-nakata.jpg]]

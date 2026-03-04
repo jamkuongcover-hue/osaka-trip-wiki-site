@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 談山神社 (Tanzan Shrine)
 
 ![[tanzan-shrine.jpg]]
@@ -9,6 +16,6 @@
 - **描述**: 位於多武峰，祭祀大化革新的中心人物藤原鎌足。除了著名的十三重塔，這裡還是賞楓聖地，被稱為「關西的日光」。
 - **Charlotte's Tip**: 雖然這裡要爬一點點樓梯，但景色絕對值得。如果你是秋天來，沒來這裡真的會後悔。如果長輩體力有限，可以考慮搭計程車直接到入口附近。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 ### Features
 (Pending research)

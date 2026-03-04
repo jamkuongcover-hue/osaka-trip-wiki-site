@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 奈良公園 (Nara Park)
 
 ![[nara-park.webp]]
@@ -22,4 +29,4 @@
 (Pending research)
 
 ---
-[[nara-attractions-catalog|返回目錄]]
+[[Nara/Attractions/nara-attractions-catalog|返回目錄]]

@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 奈良町 (Naramachi)
 
 ![[edogawa-naramachi.jpg]]
@@ -14,8 +21,8 @@
 如果你厭倦咗睇寺廟，奈良町係一個好好「行」嘅地方。呢度好多特色小店，可以買到好多精緻嘅工藝品同飾物。記得留意吓每戶人家屋簷下掛住嘅紅色布偶（庚申），係用嚟趨吉避凶㗎。仲有好多隱藏版文青 Cafe，行到攰隨便搵間坐低都好有 surprise。
 
 ---
-區域: [[nara-main-catalog|奈良 (Nara)]]
-地區目錄: [[nara-attractions-catalog|奈良景點目錄]]
+區域: [[Nara/nara-main-catalog|奈良 (Nara)]]
+地區目錄: [[Nara/Attractions/nara-attractions-catalog|奈良景點目錄]]
 
 ---
-[[nara-attractions-catalog|返回目錄]]
+[[Nara/Attractions/nara-attractions-catalog|返回目錄]]

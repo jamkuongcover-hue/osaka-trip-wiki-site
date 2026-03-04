@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 八坂神社 (Yasaka Jinja)
 
 ![[yasaka-jinja.jpg]]

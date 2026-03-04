@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Sushi"
+status: "Research"
+---
+
 # 壽司 赤酢 (Sushi Akazu)
 
 ## 📋 基本資訊

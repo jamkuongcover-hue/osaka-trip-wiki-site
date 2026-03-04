@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 北野異人館街 (Kitano Ijinkan-gai) 🏡
 
 以前外國人住嘅地方，充滿歐洲風情。雖然要爬少少坡，但啲建築真係好靚。

@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 好古園 (Koko-en Garden) 🍶
 
 位於姬路城旁邊嘅日式庭園，有九個唔同風格嘅庭園，景觀非常精緻。

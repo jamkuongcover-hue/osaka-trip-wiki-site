@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Seafood"
+status: "Research"
+---
+
 # 螃蟹家 大阪本店 (Kaniya Osaka Honten)
 
 ## 📋 基本資訊

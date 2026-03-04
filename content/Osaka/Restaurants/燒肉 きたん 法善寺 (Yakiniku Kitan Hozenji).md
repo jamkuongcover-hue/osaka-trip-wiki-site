@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Yakiniku"
+status: "Research"
+---
+
 # Yakiniku Kitan (Hozenji)
 
 A calm Wagyu restaurant located in a renovated 120-year-old building in Hozenji Yokocho.

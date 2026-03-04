@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶 廣重 (Kobe Gyudon Hiroshige) 🥣
 
 雖然係牛丼店，但用嘅係神戶牛，質素遠超一般連鎖店。

@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 鹿之舟 (Shika no Fune)
 
 ![[shika-no-fune.jpg]]

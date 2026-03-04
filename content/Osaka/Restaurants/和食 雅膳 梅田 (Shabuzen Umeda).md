@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Sukiyaki"
+status: "Research"
+---
+
 # Shabuzen Umeda
 
 A restaurant specializing in premium Wagyu shabu-shabu and sukiyaki in the heart of Umeda.

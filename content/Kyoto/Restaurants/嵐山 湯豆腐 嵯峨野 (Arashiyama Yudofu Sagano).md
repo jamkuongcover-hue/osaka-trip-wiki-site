@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 嵐山湯豆腐 嵯峨野 (Arashiyama Yudofu Sagano)
 
 ## 📋 基本資訊

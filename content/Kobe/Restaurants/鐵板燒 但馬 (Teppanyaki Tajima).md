@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶 泰江 (Teppanyaki Tajima) 🥩
 
 位於神戶港口大飯店 (Kobe Portopia Hotel) 內，景觀非常壯麗。

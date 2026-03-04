@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 法隆寺 (Horyu-ji)
 
 ![[horyuji.jpg]]
@@ -9,6 +16,6 @@
 - **描述**: 世界第一個登錄為聯合國教科文組織世界文化遺產的地方，是聖德太子的傑作。
 - **Charlotte's Tip**: 這裡是飛鳥時代的歷史寶庫，五重塔真的怎麼拍怎麼美。如果你不喜歡人擠人的東大寺，那就坐個電車來斑鳩町享受一下真正的平靜。💆‍♀️
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 ### Features
 (Pending research)

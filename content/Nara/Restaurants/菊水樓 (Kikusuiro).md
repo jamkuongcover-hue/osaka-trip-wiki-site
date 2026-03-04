@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 菊水樓 (Kikusuiro)
 
 ![[kikusuiro.jpg]]

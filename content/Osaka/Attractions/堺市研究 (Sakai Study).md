@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 堺市 (Sakai) 深度研究 — 鄺太專屬行程建議 
 
 堺市位於大阪市南部，歷史悠久，係「大鳥大社」同「世界遺產古墳群」嘅所在地。自駕遊嚟呢度非常方便。

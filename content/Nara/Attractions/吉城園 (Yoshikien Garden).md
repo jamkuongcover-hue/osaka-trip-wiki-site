@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 吉城園 (Yoshikien Garden)
 
 ![[yoshikien-garden.jpg]]
@@ -14,11 +21,11 @@
 吉城園最正嘅地方係：外國遊客免費！😂 雖然免費但係質素完全唔輸畀隔離要收錢嘅依水園。尤其係嗰個苔之庭，影相好有京都嗰種空靈感。行完奈良公園覺得攰，可以嚟呢度個茶室坐吓。
 
 ---
-區域: [[nara-main-catalog|奈良 (Nara)]]
-地區目錄: [[nara-attractions-catalog|奈良景點目錄]]
+區域: [[Nara/nara-main-catalog|奈良 (Nara)]]
+地區目錄: [[Nara/Attractions/nara-attractions-catalog|奈良景點目錄]]
 
 ### Features
 (Pending research)
 
 ---
-[[nara-attractions-catalog|返回目錄]]
+[[Nara/Attractions/nara-attractions-catalog|返回目錄]]

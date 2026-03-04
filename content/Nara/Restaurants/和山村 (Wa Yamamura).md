@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 和山村 (Wa Yamamura)
 
 ![[wa-yamamura.jpg]]

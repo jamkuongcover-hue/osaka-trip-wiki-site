@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # Lucky Garden
 
 ![[lucky-garden-nara.jpg]]

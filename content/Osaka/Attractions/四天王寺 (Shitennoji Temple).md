@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 四天王寺 (Shitennoji)
 
 四天王寺係日本最古老嘅官寺，由聖德太子喺 593 年創立，係日本佛教嘅發源地之一。雖然多年嚟經歷過多次火災，但每次重建都忠實還原咗 6 世紀嘅原始設計。

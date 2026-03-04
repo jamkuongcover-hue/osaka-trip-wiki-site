@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶 皇家 Mouriya (Royal Mouriya) 🥩
 
 Mouriya 集團旗下更高端嘅分店，環境更加奢華。

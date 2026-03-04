@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 阪神震災紀念神戶防災未來中心 (Great Hanshin-Awaji Earthquake Memorial Disaster Reduction and Human Renovation Institution) 🌍
 
 一個非常有意義嘅景點，除咗了解歷史，仲可以學習防災知識，對於全家人嚟講都係一個好好嘅教育機會。

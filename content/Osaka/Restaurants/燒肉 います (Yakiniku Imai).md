@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Yakiniku"
+status: "Research"
+---
+
 # 燒肉ホルモン いま井 (Yakiniku Hormon Imai) 千林店
 
 ![[yakiniku-imai.jpg]]

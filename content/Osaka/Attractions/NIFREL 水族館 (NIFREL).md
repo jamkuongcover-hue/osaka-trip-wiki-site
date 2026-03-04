@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # NIFREL (Interactive Aquazoo)
 
 An innovative "interactive aquazoo" that blends elements of an aquarium, zoo, and art museum.

@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Sushi"
+status: "Research"
+---
+
 # カジュアル和食 メゾンプラス (Casual Washoku Maison Plus) 🍣✨
 
 位於大阪梅田（曾根崎）路地裏嘅隱世人氣店，主打視覺與味覺並重嘅新派和食。

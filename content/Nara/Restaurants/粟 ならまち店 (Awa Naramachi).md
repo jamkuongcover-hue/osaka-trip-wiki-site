@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 粟 ならまち店 (Awa Naramachi)
 
 ![[awa-naramachi.jpg]]

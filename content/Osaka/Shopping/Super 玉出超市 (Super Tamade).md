@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Shopping"
+subcategory: "Misc"
+status: "Research"
+---
+
 # Super 玉出超市 (Super Tamade) 🌻🏙️
 
 玉出超市 (Super Tamade) 係大阪最具代表性嘅「激安」(超級便宜) 超市，以黃底紅字、閃爍嘅霓虹燈招牌同「日本第一安賣王」嘅口號聞名。雖然佢唔退稅，但好多商品嘅原價已經平過其他超市嘅免稅價。

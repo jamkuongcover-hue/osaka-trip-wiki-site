@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 嵯峨野觀光鐵道 (Sagano Scenic Railway)
 
 沿住保津川行駛嘅復古觀光小火車（Torokko），係嵐山必玩嘅項目，可以坐喺木製長凳上面欣賞成條峽谷嘅絕景。

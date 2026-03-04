@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Hotel"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 大阪阪急呼吸酒店 (Hotel Hankyu RESPIRE Osaka)
 
 梅田區近年最受歡迎嘅酒店之一，位於 Links Umeda (Yodobashi) 上面。交通極方便，而且酒店好新。

@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 吉野本葛 天極堂 (Tengyokudo)
 
 ![[tengyokudo.jpg]]

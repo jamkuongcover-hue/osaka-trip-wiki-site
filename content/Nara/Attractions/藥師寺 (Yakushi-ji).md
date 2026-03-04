@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 藥師寺 (Yakushi-ji)
 
 ![[yakushiji.jpg]]
@@ -8,6 +15,6 @@
 - **描述**: 法相宗的總本山，以藥師如來為核心。東塔和西塔同時聳立的畫面非常有震撼力。
 - **Charlotte's Tip**: 這裡是求健康最靈驗的地方，既然都來了就別忘了拜一下。如果你喜歡攝影，記得在西塔前面的水池找倒影，拍出來的照片保證讓你在IG上被按爆讚。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 ### Features
 (Pending research)

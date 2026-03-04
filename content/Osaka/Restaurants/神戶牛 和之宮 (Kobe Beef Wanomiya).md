@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # Kobe Beef Wanomiya
 
 Teppanyaki restaurant specializing in A5-ranked premium Kobe Beef.

@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 丸久小山園 元庵 (Marukyu Koyamaen Motoan)
 
 ![[marukyu-koyamaen.jpg]]

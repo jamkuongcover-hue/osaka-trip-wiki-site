@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 神戶大倉飯店展望台 (Hotel Okura Kobe Observatory) 🗼
 
 比起神戶港塔，呢度係一個更低調、可以坐低慢慢欣賞神戶港夜景嘅地方。

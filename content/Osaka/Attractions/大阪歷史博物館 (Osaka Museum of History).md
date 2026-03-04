@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Museum"
+status: "Research"
+---
+
 # 大阪歷史博物館 (Osaka Museum of History) 
 
 Jam，呢度就在大阪城隔離，行完大阪城順便過嚟就最完美！

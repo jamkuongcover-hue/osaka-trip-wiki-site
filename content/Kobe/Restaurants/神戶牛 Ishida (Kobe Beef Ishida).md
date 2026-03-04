@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶牛排 Ishida.本店 (Kobe Beef Steakhouse Ishida)
 
 ![[kobe-beef-ishida.jpg]]

@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Landmark"
+status: "Research"
+---
+
 # 京都塔 (Kyoto Tower)
 
 ![[kyoto-tower.jpg]]

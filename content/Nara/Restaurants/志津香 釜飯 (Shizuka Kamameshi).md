@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Seafood"
+status: "Research"
+---
+
 # 志津香 釜飯 (Shizuka Kamameshi)
 
 ![[shizuka-kamameshi.webp]]

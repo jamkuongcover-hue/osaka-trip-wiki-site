@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 駿河屋 (Surugaya)
 
 ![[surugaya.webp]]

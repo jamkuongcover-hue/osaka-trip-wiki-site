@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 福太郎 (Fukutaro)
 
 ![[fukutaro.jpg]]

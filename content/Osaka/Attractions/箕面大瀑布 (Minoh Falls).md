@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 箕面大瀑布 (Minoh Falls)
 
 ![[minoh-falls.jpg]]

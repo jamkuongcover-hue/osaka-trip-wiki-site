@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 相樂園 (Sorakuen Garden) 🎍
 
 神戶市內唯一一個都市綠洲般嘅日本傳統庭園，原本係私人豪宅，依家對外開放，係散步靜心嘅好地方。

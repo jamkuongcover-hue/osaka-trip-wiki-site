@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Hotel"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 環球影城前酒店 (The Park Front Hotel at Universal Studios Japan)
 
 去 USJ 玩嘅話，住呢間簡直係夢想！佢就喺樂園門口，玩到最後一刻行返去都唔使 1 分鐘。

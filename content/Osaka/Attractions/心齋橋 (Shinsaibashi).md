@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 心齋橋筋商店街 (Shinsaibashi-suji Shopping Arcade)
 
 大阪最有代表性嘅購物戰區，長達約 600 公尺嘅全天候拱廊，落雨都唔怕行到腳軟。🛍️👗

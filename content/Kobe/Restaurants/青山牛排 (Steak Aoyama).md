@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶 Aoyama (Steak Aoyama) 🥩
 
 溫馨嘅家庭式牛排店，師傅對食材非常有熱誠。

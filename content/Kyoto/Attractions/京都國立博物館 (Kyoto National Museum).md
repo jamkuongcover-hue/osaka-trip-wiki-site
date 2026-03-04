@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Museum"
+status: "Research"
+---
+
 # 京都國立博物館 (Kyoto National Museum)
 
 ![[kyoto-national-museum.jpg]]

@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Seafood"
+status: "Research"
+---
+
 # 蟹道樂 (Kani Doraku) - 道頓堀本店
 
 道頓堀最標誌性嘅餐廳！門口嗰隻識郁嘅大螃蟹招牌就係佢。

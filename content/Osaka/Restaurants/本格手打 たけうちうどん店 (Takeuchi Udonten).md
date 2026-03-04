@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 本格手打 たけうちうどん店 (Honkakuteuchi Takeuchi Udonten)
 
 ![[takeuchi-udon-nakatsu.jpg]]

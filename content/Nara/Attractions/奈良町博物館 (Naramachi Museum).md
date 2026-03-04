@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Museum"
+status: "Research"
+---
+
 # 奈良町博物館 (Naramachi Museum)
 
 ![[naramachi-museum.jpg]]
@@ -9,6 +16,6 @@
 - **描述**: 位於奈良町中心，展示江戶到明治時期的生活骨董，外牆掛滿了避邪的紅猿。
 - **Charlotte's Tip**: 館內雖然不大，但非常有味道。館長很親切，這裡也是了解奈良町文化的一個好起點。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 ### Features
 (Pending research)

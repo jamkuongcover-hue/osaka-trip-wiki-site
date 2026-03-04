@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶布引香草園 (Kobe Nunobiki Herb Gardens) - 纜車版
 
 ## 📍 基本資訊

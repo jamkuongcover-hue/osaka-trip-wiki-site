@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Yakiniku"
+status: "Research"
+---
+
 # 炭火焼肉屋台 たじま屋 (Tajimaya)
 
 ![[tajimaya-kobe.jpg]]

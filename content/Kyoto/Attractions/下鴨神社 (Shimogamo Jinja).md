@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 下鴨神社 (Shimogamo Jinja)
 
 ![[shimogamo-jinja.png]]

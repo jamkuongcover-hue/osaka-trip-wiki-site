@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 猿澤池 (Sarusawa-ike Pond)
 
 ![[sarusawa-ike.jpg]]
@@ -12,5 +19,5 @@
 - 🐢 **烏龜樂園**：天氣好的時候可以看到超多烏龜在石頭上曬太陽。
 - 🏮 **採女祭**：每年中秋節這裡會舉行祭典，池面上會有小船，氣氛很特別。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 [[興福寺 (Kofuku-ji)]]

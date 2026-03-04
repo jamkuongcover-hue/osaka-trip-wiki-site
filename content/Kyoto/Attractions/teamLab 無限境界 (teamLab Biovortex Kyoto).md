@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # teamLab 無限境界 (teamLab Biovortex Kyoto)
 
 ![[teamlab-kyoto.png]]

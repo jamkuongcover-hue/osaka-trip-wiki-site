@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 大阪城天守閣 (Osaka Castle) - 電梯與接駁車版
 
 ![[osaka-castle.jpg]]

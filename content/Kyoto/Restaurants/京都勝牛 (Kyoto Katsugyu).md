@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 京都勝牛 (Kyoto Katsugyu)
 
 ![[kyoto-katsugyu.png]]

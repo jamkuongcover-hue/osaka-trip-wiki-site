@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 興福寺 (Kofuku-ji Temple)
 
 ![[kofuku-ji.jpg]]
@@ -14,11 +21,11 @@
 去興福寺最緊要睇阿修羅像！佢嗰種似笑非笑、充滿憂愁嘅表情真係好吸引。仲有座五重塔，係奈良嘅 skyline 必影位。呢度離奈良公園好近，行去餵鹿之前可以先嚟呢度吸收下靈氣，免得等陣畀鹿追到失魂落魄。🦌
 
 ---
-區域: [[nara-main-catalog|奈良 (Nara)]]
-地區目錄: [[nara-attractions-catalog|奈良景點目錄]]
+區域: [[Nara/nara-main-catalog|奈良 (Nara)]]
+地區目錄: [[Nara/Attractions/nara-attractions-catalog|奈良景點目錄]]
 
 ### Features
 (Pending research)
 
 ---
-[[nara-attractions-catalog|返回目錄]]
+[[Nara/Attractions/nara-attractions-catalog|返回目錄]]

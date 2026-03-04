@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 江戶川 奈良町店 (Edogawa Naramachi)
 
 ![[edogawa-naramachi.jpg]]

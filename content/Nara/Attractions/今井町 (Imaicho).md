@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 今井町 (Imaicho Town)
 
 ![[imaicho.jpg]]
@@ -8,6 +15,6 @@
 - **描述**: 重要傳統建築物群保存地區，保存了約500棟江戶時代的民家。
 - **Charlotte's Tip**: 這裡遊客極少，街道平整且大多是平房。帶長輩來這裡漫步非常有感，隨便找間老屋改造的咖啡廳坐坐都很享受。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 ### Features
 (Pending research)

@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Museum"
+status: "Research"
+---
+
 # 奈良金魚博物館 (Nara Kingyo Museum)
 
 ![[kingyo-museum.jpg]]
@@ -12,4 +19,4 @@
 - 🐠 **金魚之鄉**：奈良的大和郡山是著名的金魚產地，這裡把金魚文化演繹得很現代。
 - 🛍️ **商場位置**：位於 Mi-Nara 商場內，研究完古蹟想吹冷氣、逛街的話這裡是好去處。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]

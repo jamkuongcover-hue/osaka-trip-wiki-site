@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # Teppanyaki Minami (Swissotel Nankai Osaka)
 
 A high-end teppanyaki restaurant that welcomes families and offers high-quality Wagyu.

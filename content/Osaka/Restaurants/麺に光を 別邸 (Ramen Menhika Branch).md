@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Ramen"
+status: "Research"
+---
+
 # 麺に光を 別邸 (Ramen Menhika Branch)
 
 - **地址**: 日本〒556-0011 Osaka, Naniwa Ward, Nanbanaka, 1 Chome−18−8 難波カルチャービル 1F (Near Namba Station)

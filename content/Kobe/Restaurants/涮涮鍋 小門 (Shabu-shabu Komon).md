@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶 虎門 (Shabu Shabu Komon) 🍲
 
 高品質嘅涮涮鍋店，食材新鮮，熟肉食法最健康。

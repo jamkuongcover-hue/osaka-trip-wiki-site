@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 廣川 鰻魚飯 (Unagiya Hirokawa)
 
 ![[unagiya-hirokawa.jpg]]

@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 神戶市立須磨海濱水族園 (Kobe Suma Sea World) 🐬
 
 2024年全面翻新開幕嘅旗艦級水族館，擁有壯觀嘅海豚表演同埋西日本唯一嘅殺人鯨表演！

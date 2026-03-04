@@ -1,3 +1,10 @@
+---
+location: "Kobe"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 神戶 虎河豚 (Gu-en Kobe Sannomiya) 🐡
 
 如果想試下熟河豚料理 (如河豚鍋)，呢度係唔錯嘅選擇。

@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Ramen"
+status: "Research"
+---
+
 # Ramen Sen-no-Kaze (拉麵千之風)
 
 ## 📋 基本資訊

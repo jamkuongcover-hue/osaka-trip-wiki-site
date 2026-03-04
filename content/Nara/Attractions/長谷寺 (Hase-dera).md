@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 長谷寺 (Hase-dera)
 
 ![[hasedera.jpg]]
@@ -10,6 +17,6 @@
 - **描述**: 西國三十三所第八番札所，擁有著名的長廊（登廊）和超巨大的十一面觀音像。
 - **Charlotte's Tip**: 登廊有399階，雖然很美但對長輩來說有點硬。體力不支的話，在下面看花也很愜意，不用強求爬上去。
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 ### Features
 (Pending research)

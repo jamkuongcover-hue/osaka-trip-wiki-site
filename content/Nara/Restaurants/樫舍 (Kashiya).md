@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 奈良和菓子 樫舍 (Kashiya)
 
 ![[kashiya.jpg]]

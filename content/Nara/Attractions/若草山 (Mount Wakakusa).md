@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 若草山 (Mt. Wakakusa)
 
 ![[wakakusa-yama.jpg]]
@@ -9,6 +16,6 @@
 - **描述**: 位在奈良公園東側，整座山長滿青草。每年1月的「燒山祭」是這裡的大盛事。
 - **Charlotte's Tip**: 如果你跟我一樣懶得爬山，那就搭觀光巴士上去。在山頂吹著涼風看夕陽真的很浪漫，但如果你是一個人去的話，嗯...當心被那邊的情侶閃瞎。😎
 
-[[nara-attractions-catalog]]
+[[Nara/Attractions/nara-attractions-catalog]]
 ### Features
 (Pending research)

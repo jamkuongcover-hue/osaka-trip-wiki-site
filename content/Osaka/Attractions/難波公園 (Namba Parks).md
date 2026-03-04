@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 難波公園 (Namba Parks) 
 
 Jam，呢度係大阪最靚嘅「城市綠洲」，建築設計攞過好多大獎，一定要嚟睇吓！

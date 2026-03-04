@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Restaurant"
+subcategory: "Yakiniku"
+status: "Research"
+---
+
 # 松阪牛燒肉 M (法善寺橫丁店)
 
 以提供頂級松阪和牛聞名，位於富有懷舊氣息的法善寺橫丁，提供多種部位的和牛燒肉體驗。

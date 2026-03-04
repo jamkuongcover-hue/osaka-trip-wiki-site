@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Shopping"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 日本夾公仔技巧 (UFO Catcher Skills) 🎮🧸
 
 呢個係鄺生特別指定要記低嘅夾公仔（橋渡、長盒攻略）秘籍。去日本玩嗰陣一定要攞返出嚟睇！

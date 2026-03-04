@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Restaurant"
+subcategory: "Misc"
+status: "Research"
+---
+
 # 三輪素麵 (Miwa Soumen)
 
 ![[miwa-soumen.jpg]]

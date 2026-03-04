@@ -1,3 +1,10 @@
+---
+location: "Osaka"
+category: "Attraction"
+subcategory: "Temple/Shrine"
+status: "Research"
+---
+
 # 勝尾寺 (Katsuo-ji)
 
 ![[katsuo-ji.jpg]]

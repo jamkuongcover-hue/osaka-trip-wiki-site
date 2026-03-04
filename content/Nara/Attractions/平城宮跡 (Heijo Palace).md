@@ -1,3 +1,10 @@
+---
+location: "Nara"
+category: "Attraction"
+subcategory: "Park"
+status: "Research"
+---
+
 # 平城宮跡 (Heijo Palace Site)
 
 ![[heijo-palace.jpg]]
@@ -14,11 +21,11 @@
 呢度真係超級大！行完可能要斷腳。😅 不過喺大極殿前面影相真係好壯觀，好似穿越返去古代日本咁。如果你喺黃昏時間嚟，朱雀門襯埋夕陽簡直係一絕。建議借部腳踏車慢慢行，咁就唔使行到滿頭大汗啦。
 
 ---
-區域: [[nara-main-catalog|奈良 (Nara)]]
-地區目錄: [[nara-attractions-catalog|奈良景點目錄]]
+區域: [[Nara/nara-main-catalog|奈良 (Nara)]]
+地區目錄: [[Nara/Attractions/nara-attractions-catalog|奈良景點目錄]]
 
 ### Features
 (Pending research)
 
 ---
-[[nara-attractions-catalog|返回目錄]]
+[[Nara/Attractions/nara-attractions-catalog|返回目錄]]

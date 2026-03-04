@@ -1,3 +1,10 @@
+---
+location: "Kyoto"
+category: "Restaurant"
+subcategory: "Sushi"
+status: "Research"
+---
+
 # 祗園松田屋壽司 (Gion Matsudaya)
 
 ![[gion-matsudaya.jpg]]
