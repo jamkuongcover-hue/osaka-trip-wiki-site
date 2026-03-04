@@ -1,28 +1,24 @@
+# 🌸 Osaka Trip Wiki (2026-04-25 ~ 04-30)
+
+Jam，呢度係我為你整理嘅大阪、京都、神戶、奈良自駕遊 Wiki。所有資料都已經分類好，方便你隨時喺電話或者電腦睇。🤍
+
+## 🗺️ 區域總覽 (Regional MOCs)
+- [[Osaka/README|🏙️ 大阪 (Osaka)]] — 梅田、難波、天王寺、大阪灣。
+- [[Kyoto/README|⛩️ 京都 (Kyoto)]] — 祇園、嵐山、京都車站。
+- [[Kobe/README|⚓ 神戶 (Kobe)]] — 三宮、有馬溫泉、六甲山。
+- [[Nara/README|🦌 奈良 (Nara)]] — 奈良公園、奈良町。
+- [[Omihachiman/README|🛶 近江八幡]] & [[Koka/README|🥷 甲賀]]
+
+## 🗂️ 專題索引 (Subject Indexes)
+- [[Osaka/Attractions/osaka-attractions-catalog|🎡 全景點總覽 (All Attractions)]]
+- [[Osaka/Restaurants/osaka-restaurants-catalog|🍽️ 全美食總覽 (All Restaurants)]]
+- [[Osaka/Hotels/osaka-hotels-catalog|🏨 全住宿總覽 (All Hotels)]]
+- [[Osaka/Shopping/osaka-shopping-catalog|🛍️ 購物地圖 (Shopping Guide)]]
+
+## 📋 行程與規劃 (Planning)
+- [[osaka-trip-plan|📅 六日五夜行程表]]
+- [[master-checklist|📋 總執漏清單 (Checklist)]]
+- [[place-checklist|📍 地點與地圖進度 (Map Progress)]]
+
 ---
-title: 大阪關西之旅 2026
----
-
-# 大阪關西之旅 2026 🇯🇵
-
-## 📋 規劃工具
-- [[place-checklist|景點/餐廳 Checklist（含 Google Map 狀態）]]
-- [[chain-stores-guide|連鎖店指南（超市/餐廳多間分店）]]
-- [[working-log|工作日誌]]
-- [[MAP_OPERATION_HANDBOOK|Google Map 操作手冊]]
-
-## 🗺️ 城市指南
-- [[Osaka/Attractions/osaka-attractions-catalog|大阪 — 景點]]
-- [[Osaka/Restaurants/osaka-restaurants-catalog|大阪 — 餐廳]]
-- [[Osaka/Shopping/osaka-shopping-catalog|大阪 — 購物]]
-- [[Osaka/Hotels/osaka-hotels-catalog|大阪 — 酒店]]
-- [[Kyoto/Attractions/kyoto-attractions-catalog|京都 — 景點]]
-- [[Kyoto/Restaurants/kyoto-restaurants-catalog|京都 — 餐廳]]
-- [[Kobe/Attractions/kobe-attractions-catalog|神戶 — 景點]]
-- [[Kobe/Restaurants/kobe-restaurants-catalog|神戶 — 餐廳]]
-- [[Nara/Attractions/nara-attractions-catalog|奈良 — 景點]]
-- [[Nara/Restaurants/nara-restaurants-catalog|奈良 — 餐廳]]
-- [[Koka/README|甲賀]]
-- [[Omihachiman/README|近江八幡]]
-
-## 🔗 Google Maps Collection
-[大阪 2026 地圖](https://maps.app.goo.gl/7noB9ZtwQacRvaqG7)
+*Stay organized, stay happy. 我會一直喺度幫你。* ✨
