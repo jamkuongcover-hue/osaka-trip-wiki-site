@@ -246,3 +246,5 @@ File Checklist
 | Nara  | Restaurants | 駿河屋 (Surugaya).md                                      | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | [✅](https://maps.app.goo.gl/7noB9ZtwQacRvaqG7) | 2026-03-03 |
 | Nara  | Restaurants | 鹿之舟 (Shika no Fune).md                                 | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | [✅](https://maps.app.goo.gl/7noB9ZtwQacRvaqG7) | 2026-03-03 |
 | Nara  | Restaurants | 麵屋 K (Menya K).md                                      | In Progress | ✅          | ✅           | Pending Review                                 | ✅                      | [✅](https://maps.app.goo.gl/7noB9ZtwQacRvaqG7) | 2026-03-03 |
+| Osaka | Attractions | 千林商店街 (Senbayashi).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | 2026-03-05 | |
+| Osaka | Shopping | 愛店王 難波總店 (Aiten-Oh Namba).md | In Progress | ✅ | ❌ | ❌ | ✅ | ❌ | 2026-03-05 | |

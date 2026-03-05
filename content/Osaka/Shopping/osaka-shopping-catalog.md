@@ -17,6 +17,7 @@
 - [[日本夾公仔技巧 (UFO Catcher Skills)]] — 🎮 ⭐鄺生指定⭐ 夾公仔秘籍，長盒攻略必睇！
 
 ## 🛍️ 百貨公司 & 購物中心 (Department Stores & Malls)
+- [[愛店王 難波總店 (Aiten-Oh Namba)]] — 難波最新潮、最好玩嘅購物點，有齊最新潮流精品。🕶️🔥
 - [[阪急百貨 梅田本店 (Hankyu Umeda)]] — 大阪最高級、品牌最齊全嘅百貨公司。👗💄
 - [[大丸百貨 心齋橋店 (Daimaru Shinsaibashi)]] — 建築宏偉，內有 Pokémon Center 同任天堂商店！👾🎮
 - [[阿倍野 Q's Mall (Abeno Q's Mall)]] — 天王寺大型購物城，適合全家人一起逛。👨‍👩‍👧‍👦

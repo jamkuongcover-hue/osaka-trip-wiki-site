@@ -452,3 +452,12 @@
   - `memory/osaka-trip/place-checklist.md`
   - `memory/osaka-trip/working-log.md`
 - Recorded by Charlotte
+2026-03-05 11:08: Updated 家和らぎ (Iwayuragi) restaurant info and Day 2 itinerary. Hours verification pending - added warning note.
+2026-03-05 11:19: Updated itinerary Day 1-6 with specific lunch and dinner suggestions based on existing catalog and preferences.
+2026-03-05 11:24: [URGENT CORRECTION] Corrected Shouta (正念場 伸太) as a breakfast spot (shouta1206) for Day 2. Apologies for the previous confusion with the dinner spot.
+2026-03-05 11:26: [CRITICAL FIX] Consolidated 'Shonenba Shinta' into '家和らぎ (Iwayuragi).md' as per Jam's correction. Fixed address/hours and updated Day 2 itinerary accordingly.
+2026-03-05 11:27: [CRITICAL SPELLING FIX] Corrected 'Iwayuragi' to 'Yawaragi' for '家和らぎ'. Updated restaurant file name and all internal/itinerary references.
+2026-03-05 11:29: [ITINERARY RESTRUCTURE] Swapped Day 2 (Osaka) and Day 5 (Kyoto Outlet). Moved Kinkaku-ji to evening (Golden Hour) as per Wife's request.
+
+- 2026-03-05T03:49:26.946Z: Updated itinerary Day1-Day6 and osaka-trip-plan.md based on Jam's latest message. [Charlotte]
+- 2026-03-05T03:49:37.189Z: Added 千林商店街 and 愛店王 placeholders and updated catalogs. [Charlotte]
