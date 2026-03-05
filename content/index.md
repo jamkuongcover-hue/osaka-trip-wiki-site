@@ -4,8 +4,8 @@ Jam，呢度係我為你整理嘅大阪、京都、神戶、奈良自駕遊 Wiki
 
 ## 📅 每日行程 (Itinerary)
 - [[itinerary/Day1|📍 Day 1: 抵達大阪．白蛤之夜]]
-- [[itinerary/Day2|📍 Day 2: 大阪 -> 京都．錦市場與伏見]]
-- [[itinerary/Day3|📍 Day 3: 京都深探．清水寺與祇園]]
+- [[itinerary/Day2|📍 Day 2: 大阪市內精華遊．大阪城與黑門]]
+- [[itinerary/Day3|📍 Day 3: 大阪 -> 京都．錦市場與伏見]]
 - [[itinerary/Day4|📍 Day 4: 嵐山自然與夜生活]]
 - [[itinerary/Day5|📍 Day 5: 大阪節慶．黑門市場與新世界]]
 - [[itinerary/Day6|📍 Day 6: 最後衝刺與回程]]
