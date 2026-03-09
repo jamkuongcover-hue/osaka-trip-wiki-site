@@ -15,8 +15,8 @@
     - *Details*: 比起一般分店環境更為雅致高級，提供完整嘅全蟹宴，適合一家人慢慢享用。
   - *Suggestion 2*: **福太郎 (Fukutaro)** [[福太郎 (Fukutaro)]]
     - *Details*: 大阪燒排隊名店，佢哋嘅「蔥燒 (Negiyaki)」非常出名，蔥香十足。
-- **下午 愛店王 難波總店** 🎮 [[愛店王 難波總店 (Aiten-Oh Namba)]]
 - **下午 日本橋電器街** 🤖
+- **下午 愛店王 難波總店** 🎮 [[愛店王 難波總店 (Aiten-Oh Namba)]]
 - **傍晚 通天閣 & 新世界本通商店街** 🗼 [[通天閣 (Tsutenkaku)]]
 - **19:00 阿倍野 HARUKAS** 🏙️ [[阿倍野展望台 (Abeno Harukas)]]
   - *Suggestion 1*: **[[薩摩 牛之藏 (Satsuma Ushinokura)]]**
