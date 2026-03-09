@@ -3,12 +3,12 @@
 Jam，呢度係我為你整理嘅大阪、京都、神戶、奈良自駕遊 Wiki。所有資料都已經分類好，方便你隨時喺電話或者電腦睇。🤍
 
 ## 📅 每日行程 (Itinerary)
-- [[itinerary/Day1_2026-04-25_Arrival_Osaka|📍 Day 1: 抵達大阪．白蛤之夜]]
-- [[itinerary/Day2_2026-04-26_Osaka_to_Kyoto|📍 Day 2: 大阪 -> 京都．錦市場與伏見]]
-- [[itinerary/Day3_2026-04-27_Kyoto_Deep_Tour|📍 Day 3: 京都深探．清水寺與祇園]]
-- [[itinerary/Day4_2026-04-28_Kyoto_Nature_and_Night|📍 Day 4: 嵐山自然與夜生活]]
-- [[itinerary/Day5_2026-04-29_Osaka_Holiday|📍 Day 5: 大阪節慶．黑門市場與新世界]]
-- [[itinerary/Day6_2026-04-30_Market_and_Departure|📍 Day 6: 最後衝刺與回程]]
+- [[itinerary/Day1|📍 Day 1: 抵達大阪．白蛤之夜]]
+- [[itinerary/Day2|📍 Day 2: 大阪 -> 京都．錦市場與伏見]]
+- [[itinerary/Day3|📍 Day 3: 京都深探．清水寺與祇園]]
+- [[itinerary/Day4|📍 Day 4: 嵐山自然與夜生活]]
+- [[itinerary/Day5|📍 Day 5: 大阪節慶．黑門市場與新世界]]
+- [[itinerary/Day6|📍 Day 6: 最後衝刺與回程]]
 
 ## 🗺️ 區域總覽 (Regional MOCs)
 - [[Osaka/README|🏙️ 大阪 (Osaka)]] — 梅田、難波、天王寺、大阪灣。
