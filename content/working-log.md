@@ -1,5 +1,58 @@
 # Working Log - Osaka Trip
 
+## 2026-03-15 00:13 HKT — Kyoto 2-Night Agoda Segment Confirmed
+- Task: Reconcile the earlier hotel mismatch after Jam clarified that 2 of the 5 booked nights are in Kyoto, not Osaka.
+- Kyoto hotel confirmed from Agoda email: **Richmond Hotel premier KYOTO SHIJO**
+- Booking #: **1705383431**
+- Stay: **2026-04-27 → 2026-04-29** (2 nights, 2 rooms, 4 adults)
+- Price shown in Agoda confirmation: **JPY 121,507**
+- Payment timing: Agoda says auto-charge on **2026-03-26** to selected payment method ending **1003**
+- Corrections made:
+  - Updated `CANDEO HOTELS Osaka Namba.md` from "5 Osaka nights" to the correct structure: **Osaka 3 nights + Kyoto 2 nights**
+  - Updated `京都里士滿高級酒店四條 (Richmond Hotel Premier Kyoto Shijo).md` with Agoda booking details
+- Important accounting note:
+  - Kyoto booking is confirmed, but the Agoda email indicates future auto-charge rather than a completed transaction, so it has **not** been logged as a completed trip expense yet.
+- Recorded by Charlotte
+
+## 2026-03-15 00:08 HKT — CANDEO HOTELS Osaka Namba Booking Logged Separately
+- Task: Record Osaka hotel transactions from Jam's screenshots, verify booking details from Gmail, and keep trip spend separate from daily spend.
+- Hotel: CANDEO HOTELS Osaka Namba
+- User instruction: hotel spend must **not** be mixed with daily/local spending.
+- Actions completed:
+  - Created dedicated ledger account: `japan-trip-2026`
+  - Logged **HK$6,140.56** (American Express Travel Online) to `japan-trip-2026`
+  - Logged **HK$1,618.23** (Agoda) to `japan-trip-2026`
+  - Retrieved Gmail confirmations for Amex booking #30038159 and Agoda booking #1708062859
+  - Created hotel note: `memory/osaka-trip/Osaka/Hotels/CANDEO HOTELS Osaka Namba.md`
+  - Added hotel to `osaka-hotels-catalog.md`
+  - Stored transaction screenshots under `memory/osaka-trip/staging-assets/candeo-hotels-osaka-namba/`
+- Evidence found from email:
+  - Amex segment: 2026-04-25 → 2026-04-27, 2 nights, 2 rooms, HK$6,140.56
+  - Agoda segment: 2026-04-29 → 2026-04-30, 1 night, 2 rooms, HK$1,618.23
+- Reconciliation note:
+  - Jam stated total Osaka stay is **5 nights** at CANDEO HOTELS Osaka Namba.
+  - Retrieved Gmail confirmations currently evidence **3 nights** only, so remaining **2 nights** are still pending email reconciliation.
+- Recorded by Charlotte
+
+## 2026-03-14 17:33 HKT — IG Restaurant Marker Added (Not Itinerary Yet)
+- Task: Open Instagram post sent by Jam and mark the place into Osaka trip as a restaurant reference only.
+- Place marked: Osaka | Restaurants | 鮨 大和 (Sushi Yamato)
+- Source used: IG post https://www.instagram.com/p/DVxWu26kZbO/?igsh=MWZub2Fsb2QzdHoxaQ==
+- Research follow-up completed:
+  - Google Map identified
+  - Tabelog identified
+  - official website identified
+  - hours / budget / reservation model filled in
+  - assessed as **strong candidate** but **still not added to itinerary**
+- Important constraint: **saved to Osaka trip reference only; not added to itinerary yet**.
+- Modified files:
+  - `memory/osaka-trip/Osaka/Restaurants/鮨 大和 (Sushi Yamato).md`
+  - `memory/osaka-trip/Osaka/Restaurants/osaka-restaurants-catalog.md`
+  - `memory/osaka-trip/place-checklist.md`
+  - `memory/osaka-trip/working-log.md`
+  - `memory/osaka-trip/staging-assets/sushi-yamato/sushi-yamato-1.jpg`
+- Recorded by Charlotte
+
 ## 2026-03-03 07:50 HKT — Google Map Collection Batch Addition (Batch 38)
 - Task: Identify locations with 'Google Map' as ❌ and add to collection (https://maps.app.goo.gl/7noB9ZtwQacRvaqG7).
 - Priority: Attractions > Restaurants > Shopping (Skip Hotels).

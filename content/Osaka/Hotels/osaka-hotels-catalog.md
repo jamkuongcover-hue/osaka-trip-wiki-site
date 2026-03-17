@@ -1,6 +1,7 @@
 # Osaka Hotels Catalog
 
 ## Files
+- [[CANDEO HOTELS Osaka Namba]]
 - [[大阪十字酒店 (Cross Hotel Osaka)]]
 - [[大阪本町柯蒂亞酒店 (Hotel Cordia Osaka Hommachi)]]
 - [[大阪南海瑞士酒店 (Swissotel Nankai Osaka)]]
