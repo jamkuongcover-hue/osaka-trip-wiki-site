@@ -11,6 +11,7 @@
 ## 🗂️ 分類索引 (Category Index)
 - [[Kyoto/Attractions/kyoto-attractions-catalog|🏯 景點 Attractions]]
 - [[Kyoto/Restaurants/kyoto-restaurants-catalog|🍱 美食 Restaurants]]
+- [[Kyoto/Shopping/kyoto-shopping-catalog|🛍️ 購物 Shopping]]
 - [[Kyoto/Hotels/kyoto-hotels-catalog|🛌 住宿 Hotels]]
 
 ---

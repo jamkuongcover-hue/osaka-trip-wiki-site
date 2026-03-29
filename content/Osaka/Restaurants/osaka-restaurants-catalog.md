@@ -8,6 +8,8 @@
 - [[壽司赤酢 (Sushi Akazu)]] — 北新地 Omakase 名店，選用赤酢醋飯，風味濃郁。
 - [[北新地 鮨 なかがわ (Sushi Nakagawa)]] — 精緻板前壽司，展現職人手藝。
 - [[鮨 みのき (Sushi Minoki)]] — 新鮮食材，親民價格，高 CP 值之選。
+- [[鮨 大和 (Sushi Yamato)]] — 東心齋橋壽司店，IG 口碑幾強，已先標記做 Osaka trip reference。🍣
+- [[寿司屋のだ 天満市場店 (Sushiya Noda Tenma)]] — 天滿市場內魚屋直營海鮮丼，最平 880円 起；如果想搵黑門市場替代案，呢間好值得研究。🐟
 - [[鮨 よつば (Sushi Yotsuba)]] — 環境優雅，適合慢慢品嚐嘅壽司時光。
 - [[鮨處 黑杉 (Sushi-dokoro Kurosugi)]] — 高級壽司名店，食材層次豐富。
 - [[伊勢海老 たくと (Iseebi Takuto)]] — 主打伊勢龍蝦料理，鮮甜無比。🦞
