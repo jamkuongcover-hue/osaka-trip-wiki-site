@@ -2,6 +2,11 @@
 
 Jam，呢度係我為你整理嘅大阪、京都、神戶、奈良自駕遊 Wiki。所有資料都已經分類好，方便你隨時喺電話或者電腦睇。🤍
 
+## ✈️ 航班
+- **去程**: HK Express UO686 | 04-25 (Sat) 08:45 HKG → 13:30 KIX | OEF3SX
+- **回程**: HK Express UO899 | 04-30 (Thu) 17:00 KIX → 20:10 HKG | OEF3SX
+- 詳見 [[flights|✈️ 航班詳情]]
+
 ## 📅 每日行程 (Itinerary)
 - [[itinerary/Day1|📍 Day 1: 抵達大阪．白蛤之夜]]
 - [[itinerary/Day2|📍 Day 2: 大阪 -> 京都．錦市場與伏見]]

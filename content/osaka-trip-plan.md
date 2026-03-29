@@ -1,22 +1,32 @@
 # Osaka Trip Plan (April 2026) 🌸
 
+## ✈️ 航班
+- **去程**: HK Express UO686 | 04-25 (Sat) 08:45 HKG → 13:30 KIX | 訂單 OEF3SX
+- **回程**: HK Express UO899 | 04-30 (Thu) 17:00 KIX → 20:10 HKG | 訂單 OEF3SX
+
+## 🏨 住宿
+- **大阪 Day 1-2**: CANDEO Hotels Osaka Namba（AmEx #30038159，Apr 25-27）
+- **京都 Day 3-4**: Richmond Hotel Premier Kyoto Shijo（Agoda #1705383431，Apr 27-29）
+- **大阪 Day 5**: CANDEO Hotels Osaka Namba（Agoda #1708062859，Apr 29-30）
+
 ## 🗓️ 總覽 (6天5夜)
 
 | 日期 | 地點 | 行程重點 | 早餐 | 午餐 | 晚餐 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Day 1 (Sat)** | 大阪 | 抵達、取車、心齋橋、道頓堀 | - | 機場 lunch | dinner |
-| **Day 2 (Sun)** | 大阪 | 大阪城、黑門市場、蟹道樂、難波、通天閣、阿倍野 | yawaragi | 蟹道樂 | dinner |
+| **Day 1 (Sat 04-25)** | 大阪 | 13:30落機、取車、心齋橋、道頓堀 | - | 機場 lunch | BACCANALE 20:00 |
+| **Day 2 (Sun 04-26)** | 大阪 | 大阪城、黑門市場、蟹道樂、難波、通天閣、阿倍野 | yawaragi | 蟹道樂 | dinner |
 | **Day 3 (Mon)** | 京都 | 御金神社、錦市場、岡崎神社、祇園、清水寺、高木批發超市三條店 | 酒店 | 錦市場 | dinner |
 | **Day 4 (Tue)** | 京都 | 金閣寺、嵐山、御髮神社、天龍寺、伏見稻荷 | 酒店 | lunch | dinner |
 | **Day 5 (Wed)** | 大阪 | 三井 Outlet 門真、千林商店街 | 酒店 | Outlet | dinner |
-| **Day 6 (Thu)** | 大阪 -> 離開 | 木津市場、臨空城 Outlet、還車 | 木津市場 | 臨空城 | - |
+| **Day 6 (Thu 04-30)** | 大阪 -> 離開 | 木津市場、臨空城 Outlet、還車、17:00 KIX 起飛 | 木津市場 | 臨空城 | - |
 
 ## 🚗 交通方式
 - 全程自駕，由大阪關西機場取車及還車。
 
 ## 📍 住宿資訊
-- **大阪**：Day 1, 2, 5
-- **京都**：Day 3, 4 — 京都里士滿高級酒店四條 (Richmond Hotel Premier Kyoto Shijo)【已預訂】
+- **大阪 Day 1-2**: CANDEO Hotels Osaka Namba（AmEx #30038159，Apr 25-27，2晚2房）
+- **京都 Day 3-4**: Richmond Hotel Premier Kyoto Shijo（Agoda #1705383431，Apr 27-29，2晚2房）
+- **大阪 Day 5**: CANDEO Hotels Osaka Namba（Agoda #1708062859，Apr 29-30，1晚2房）
 
 ## ⭐ 夫人指定必去景點
 - **家和らぎ (Yawaragi)** 早餐 (Day 2)

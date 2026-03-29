@@ -514,3 +514,15 @@
 
 - 2026-03-05T03:49:26.946Z: Updated itinerary Day1-Day6 and osaka-trip-plan.md based on Jam's latest message. [Charlotte]
 - 2026-03-05T03:49:37.189Z: Added 千林商店街 and 愛店王 placeholders and updated catalogs. [Charlotte]
+## 2026-03-27 18:51 HKT — Flight Details Added
+- Task: Record HK Express flight booking details from Jam's direct message.
+- Created `flights.md` with full departure/return info.
+- Updated `osaka-trip-plan.md` with flight + hotel summary at top.
+- Updated `itinerary/Day1.md` with departure from HKG 08:45.
+- Updated `itinerary/Day6.md` with return flight UO899 17:00 KIX → 20:10 HKG.
+- Updated `index.md` with flight summary.
+- Flight details:
+  - Outbound: UO686, 04-25 08:45 HKG T1 → 13:30 KIX T1 (隨心飛 Fare U)
+  - Return: UO899, 04-30 17:00 KIX T1 → 20:10 HKG T1 (無憂飛 Fare U)
+  - Booking ref: OEF3SX
+- Recorded by Charlotte
