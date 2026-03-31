@@ -12,6 +12,7 @@
 - [[寿司屋のだ 天満市場店 (Sushiya Noda Tenma)]] — 天滿市場內魚屋直營海鮮丼，最平 880円 起；如果想搵黑門市場替代案，呢間好值得研究。🐟
 - [[鮨 よつば (Sushi Yotsuba)]] — 環境優雅，適合慢慢品嚐嘅壽司時光。
 - [[鮨處 黑杉 (Sushi-dokoro Kurosugi)]] — 高級壽司名店，食材層次豐富。
+- [[廻転鮨 銀座おのでら 大阪店 (Kaiten Sushi Ginza Onodera Osaka)]] — 米芝蓮「銀座おのでら」旗下迴轉壽司，職人即握，心齋橋 B1F。🍣✨ **Day 2 晚餐 confirmed**
 - [[伊勢海老 たくと (Iseebi Takuto)]] — 主打伊勢龍蝦料理，鮮甜無比。🦞
 - [[蟹家 (Kaniya Osaka)]] — 專業蟹料理，多種食法滿足蟹迷。🦀
 - [[蟹道樂 (Kani Doraku)]] — 大阪地標級蟹料理店，必試蟹肉刺身同燒烤。
